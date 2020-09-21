@@ -1,0 +1,2201 @@
+1100
+Aaron_Peirsol	1	1	2	1
+Aaron_Peirsol	3	1	4	0
+Aaron_Sorkin	1	1	2	0
+Abdel_Nasser_Assidi	1	1	2	1
+Abdullah	1	1	3	1
+Abdullah	2	0	4	0
+Abdullah_al-Attiyah	1	1	3	0
+Abdullah_al-Attiyah	2	1	3	0
+Abel_Pacheco	1	0	4	1
+Abel_Pacheco	3	1	4	1
+Adam_Sandler	1	1	3	1
+Adam_Sandler	1	0	4	1
+Adam_Sandler	2	0	4	1
+Adam_Scott	1	1	2	0
+Adolfo_Aguilar_Zinser	1	1	3	0
+Ahmed_Chalabi	2	1	4	1
+Ai_Sugiyama	2	1	4	0
+Aicha_El_Ouafi	1	1	3	0
+Aicha_El_Ouafi	2	1	3	1
+Akbar_Hashemi_Rafsanjani	1	0	3	1
+Akhmed_Zakayev	1	0	3	1
+Akhmed_Zakayev	2	0	3	0
+Al_Gore	1	1	3	0
+Alan_Ball	1	0	2	1
+Alberto_Fujimori	1	0	2	1
+Alberto_Ruiz_Gallardon	1	0	2	0
+Albrecht_Mentz	1	0	2	0
+Alec_Baldwin	1	1	2	1
+Alec_Baldwin	1	1	4	1
+Alec_Baldwin	2	0	3	1
+Alec_Baldwin	3	0	4	1
+Alejandro_Toledo	20	0	38	1
+Alex_Barros	1	1	2	1
+Alex_Sink	2	0	3	1
+Alexandra_Stevenson	1	1	2	0
+Alexandra_Stevenson	1	1	3	1
+Alexandra_Vodjanikova	1	0	2	1
+Ali_Abbas	1	1	2	0
+Ali_Khamenei	1	1	2	1
+Alice_Fisher	1	0	2	1
+Alicia_Silverstone	1	1	2	1
+Alimzhan_Tokhtakhounov	1	0	2	0
+Alison_Lohman	1	0	2	0
+Alvaro_Noboa	1	0	2	0
+Alvaro_Noboa	2	1	3	0
+Alvaro_Silva_Calderon	3	1	4	0
+Amanda_Beard	1	1	2	1
+Amber_Tamblyn	1	0	2	0
+Amelia_Vega	2	0	4	1
+Amelia_Vega	5	1	7	0
+Amelia_Vega	6	1	7	1
+Amer_al-Saadi	1	0	2	1
+Ana_Guevara	1	1	5	0
+Ana_Guevara	1	1	6	1
+Ana_Guevara	2	1	6	1
+Ana_Guevara	3	1	6	0
+Anastasia_Myskina	1	1	2	1
+Anastasia_Myskina	2	0	3	1
+Anders_Fogh_Rasmussen	1	0	2	1
+Anders_Fogh_Rasmussen	3	0	4	0
+Andre_Agassi	9	1	18	0
+Andrew_Weissmann	1	0	3	0
+Andy_Roddick	3	0	15	0
+Andy_Roddick	9	0	14	0
+Andy_Roddick	12	0	15	0
+Angela_Bassett	2	1	6	1
+Angelina_Jolie	3	1	15	1
+Angelina_Jolie	4	1	16	0
+Angelina_Jolie	8	0	15	1
+Angelina_Jolie	9	1	17	1
+Angelina_Jolie	16	1	17	1
+Anibal_Ibarra	2	1	3	1
+Anna_Kournikova	5	1	9	1
+Annette_Bening	1	1	2	1
+Anthony_Hopkins	1	1	2	0
+Antonio_Banderas	2	1	3	0
+Antonio_Banderas	2	1	4	0
+Antony_Leung	2	1	3	0
+Anwar_Ibrahim	1	0	2	1
+Arantxa_Sanchez-Vicario	1	0	2	1
+Ari_Fleischer	1	0	13	0
+Ari_Fleischer	2	1	4	1
+Ari_Fleischer	4	1	6	1
+Ari_Fleischer	8	1	13	0
+Arianna_Huffington	1	1	2	1
+Arianna_Huffington	2	0	3	1
+Arminio_Fraga	2	1	6	0
+Arnold_Palmer	1	0	2	0
+Arnold_Palmer	1	0	3	0
+Arnoldo_Aleman	1	0	3	1
+Arnoldo_Aleman	2	1	4	1
+Aron_Ralston	1	1	2	1
+Art_Hoffmann	1	1	2	0
+Arturo_Gatti	1	0	2	0
+Arturo_Gatti	2	1	3	1
+Arye_Mekel	1	1	2	0
+Asa_Hutchinson	1	0	2	0
+Atal_Bihari_Vajpayee	10	0	20	0
+Atal_Bihari_Vajpayee	17	0	24	1
+Augusto_Roa_Bastos	1	0	2	1
+Azra_Akin	1	0	4	1
+Barbara_Walters	1	0	3	0
+Barbara_Walters	1	1	4	1
+Barbara_Walters	3	1	4	1
+Barbra_Streisand	1	1	2	1
+Barbra_Streisand	2	1	3	1
+Barrett_Jackman	1	1	2	1
+Barry_Zito	1	1	2	1
+Bashar_Assad	1	1	3	0
+Bashar_Assad	3	0	4	0
+Ben_Glisan	1	0	2	0
+Ben_Howland	1	1	2	0
+Benazir_Bhutto	1	0	2	1
+Benazir_Bhutto	2	0	5	0
+Bernard_Landry	1	1	2	1
+Bernard_Landry	1	1	4	0
+Bernard_Law	1	0	2	1
+Bernard_Law	2	0	5	0
+Bernardo_Segura	1	1	2	1
+Beth_Jones	1	0	2	1
+Bijan_Darvish	1	1	3	0
+Bijan_Namdar_Zangeneh	1	1	2	1
+Bill_Belichick	1	0	2	0
+Bill_Callahan	1	1	2	0
+Bill_Callahan	1	1	3	1
+Bill_Clinton	4	0	20	0
+Bill_Gates	3	0	11	1
+Bill_Gates	4	0	15	1
+Bill_Graham	1	0	7	1
+Bill_Graham	8	1	9	0
+Bill_Nelson	1	0	2	1
+Bill_Simon	4	1	15	1
+Bill_Simon	5	1	13	0
+Billy_Crystal	3	1	5	0
+Billy_Crystal	3	1	6	1
+Billy_Crystal	5	0	6	1
+Billy_Graham	1	1	2	0
+Binyamin_Ben-Eliezer	2	0	5	0
+Binyamin_Ben-Eliezer	3	0	7	1
+Bo_Ryan	1	1	2	1
+Bob_Beauprez	1	0	2	1
+Bob_Geldof	1	1	2	1
+Bob_Graham	1	0	5	1
+Bob_Graham	1	0	6	1
+Bob_Graham	2	1	4	0
+Bob_Graham	3	0	5	1
+Bob_Huggins	1	0	2	1
+Bob_Stoops	5	1	7	0
+Bobby_Robson	1	1	2	0
+Boris_Berezovsky	1	1	2	0
+Branko_Crvenkovski	1	1	3	1
+Brendan_Hansen	1	1	2	1
+Brooke_Shields	1	0	2	1
+Bruce_Van_De_Velde	1	1	2	1
+Bruce_Weber	1	1	2	1
+Bud_Selig	1	0	2	1
+Bud_Selig	1	0	4	1
+Bulent_Ecevit	2	0	4	1
+Bulent_Ecevit	2	1	5	0
+Bulent_Ecevit	3	0	6	0
+Cameron_Diaz	3	0	4	1
+Candie_Kung	1	0	2	1
+Candie_Kung	2	1	3	0
+Carla_Myers	1	1	2	0
+Carlos_Menem	1	1	3	0
+Carlos_Menem	6	1	12	1
+Carlos_Ruiz	2	0	3	0
+Carlos_Vives	1	0	2	0
+Carlos_Vives	2	1	3	0
+Carly_Fiorina	1	1	2	0
+Carly_Fiorina	1	1	3	0
+Carmen_Electra	1	0	6	1
+Carol_Moseley_Braun	1	0	2	1
+Carolina_Kluft	1	0	3	1
+Caroline_Kennedy	1	1	3	1
+Carson_Palmer	2	0	4	0
+Cate_Blanchett	2	0	3	1
+Cate_Blanchett	2	0	4	0
+Catherine_Deneuve	2	0	5	0
+Catherine_Zeta-Jones	1	1	4	0
+Catherine_Zeta-Jones	1	0	8	0
+Catherine_Zeta-Jones	4	1	9	1
+Catherine_Zeta-Jones	6	1	9	0
+Catherine_Zeta-Jones	8	1	10	0
+Cecilia_Bolocco	1	1	3	1
+Cesar_Gaviria	2	1	5	0
+Cesar_Gaviria	4	1	8	0
+Cesar_Gaviria	6	0	7	1
+Charles_Grassley	1	1	2	0
+Charles_Moose	1	0	3	0
+Charles_Moose	4	0	10	0
+Charles_Moose	4	1	11	0
+Charles_Schumer	1	1	2	0
+Charlotte_Rampling	1	0	2	1
+Chen_Liang_Yu	1	0	2	1
+Cherie_Blair	1	0	2	0
+Cherie_Blair	1	0	3	1
+Cherie_Blair	2	0	4	0
+Cherie_Blair	3	1	4	0
+Choi_Sung-hong	1	1	4	0
+Choi_Sung-hong	3	1	4	1
+Chris_Cooper	1	1	2	0
+Chris_Rock	1	0	2	1
+Chris_Tucker	1	1	2	1
+Christian_Fittipaldi	1	1	2	1
+Christine_Gregoire	2	1	3	1
+Christopher_Patten	1	1	2	0
+Christopher_Walken	1	0	4	1
+Christopher_Walken	2	0	4	1
+Chuck_Amato	1	1	2	1
+Chuck_Yeager	1	0	2	1
+Chung_Mong-hun	1	1	2	0
+Cindy_Margolis	1	0	2	0
+Ciro_Gomes	2	1	3	0
+Ciro_Gomes	2	1	4	1
+Ciro_Gomes	3	0	4	1
+Claire_Hentzen	1	1	2	1
+Clara_Harris	1	0	4	0
+Clara_Harris	2	0	4	1
+Claudia_Pechstein	1	0	2	0
+Claudia_Schiffer	1	0	3	1
+Clint_Eastwood	1	0	5	1
+Clint_Eastwood	1	0	6	1
+Clint_Eastwood	3	1	6	0
+Colin_Farrell	1	0	7	1
+Colin_Farrell	3	0	7	1
+Colin_Jackson	1	0	2	0
+Colin_Montgomerie	2	0	4	1
+Colin_Montgomerie	2	1	5	0
+Colin_Powell	38	0	212	0
+Colin_Powell	74	0	205	1
+Colin_Powell	120	0	166	0
+Conan_OBrien	1	1	2	1
+Constance_Marie	2	1	3	0
+Coretta_Scott_King	2	1	3	0
+Corinne_Coman	1	0	2	0
+Costas_Simitis	1	1	3	1
+Costas_Simitis	2	0	4	1
+Cristina_Saralegui	1	1	2	1
+Cruz_Bustamante	1	1	4	0
+Dalai_Lama	1	0	2	1
+Dale_Earnhardt_Jr	1	1	2	1
+Dale_Earnhardt_Jr	1	0	3	0
+Damon_van_Dam	1	0	2	1
+Dan_Morales	1	0	2	0
+Dan_Morales	1	0	3	0
+Daniel_Day-Lewis	1	1	2	0
+Daniel_Day-Lewis	1	1	3	0
+Darrell_Issa	1	0	2	0
+Darrell_Porter	1	0	2	0
+Darren_Clarke	1	0	2	1
+Daryl_Hannah	1	0	2	1
+David_Anderson	1	1	2	1
+David_Anderson	2	0	4	1
+David_Beckham	4	1	17	0
+David_Beckham	4	0	24	1
+David_Beckham	5	1	10	1
+David_Caruso	1	1	2	1
+David_Coulthard	1	1	2	0
+David_Dodge	1	1	2	0
+David_Heymann	1	0	2	0
+David_Hyde_Pierce	3	0	4	1
+David_Myers	1	0	2	0
+David_Nalbandian	4	1	9	0
+David_Spade	1	1	2	0
+David_Wells	1	0	2	1
+David_Wells	2	0	5	0
+Dean_Barkley	1	0	4	0
+Dean_Barkley	2	0	3	1
+Debbie_Reynolds	1	0	3	0
+Debra_Brown	1	1	2	0
+Demi_Moore	1	0	2	1
+Demi_Moore	2	1	3	1
+Demi_Moore	2	0	4	1
+Dennis_Erickson	1	1	2	0
+Dennis_Kucinich	2	0	5	0
+Dennis_Kucinich	6	0	7	0
+Derek_Lowe	1	0	2	1
+Desiree_Lemosi	1	1	2	0
+Dexter_Jackson	1	0	2	0
+Diana_Krall	1	0	3	1
+Diana_Krall	1	1	6	0
+Diana_Krall	2	0	4	0
+Diana_Munz	2	0	3	1
+Dianne_Feinstein	2	1	3	1
+Dick_Cheney	1	1	11	1
+Dick_Cheney	1	1	14	1
+Dolly_Parton	1	0	2	1
+Dolma_Tsering	1	0	2	0
+Don_Nickles	1	1	2	0
+Don_Siegelman	2	0	3	0
+Donald_Evans	1	1	2	1
+Donald_Fehr	3	0	4	0
+Doris_Roberts	1	1	2	0
+Doug_Duncan	1	1	2	0
+Drew_Barrymore	1	0	2	1
+Duane_Lee_Chapman	1	0	2	0
+Dwayne_Johnson	1	1	2	0
+Eddy_Merckx	1	0	2	0
+Edie_Falco	1	1	2	0
+Edmund_Hillary	2	0	3	1
+Edmund_Stoiber	2	0	3	1
+Eduard_Shevardnadze	1	0	3	1
+Eduard_Shevardnadze	3	0	4	1
+Eduardo_Duhalde	5	0	11	0
+Edward_Kennedy	1	1	2	0
+Edward_Said	1	0	2	0
+Edwina_Currie	2	1	3	1
+Eileen_Coparropa	2	0	3	1
+Elena_Bovina	1	1	2	1
+Elijah_Wood	2	0	3	1
+Elizabeth_Dole	1	1	3	0
+Elizabeth_Hurley	1	0	2	0
+Elizabeth_Hurley	2	0	3	1
+Elizabeth_Hurley	4	1	5	1
+Elizabeth_Shue	1	0	2	0
+Ellen_DeGeneres	1	1	2	1
+Elton_John	1	0	7	0
+Elton_John	3	0	5	1
+Elvis_Presley	1	0	2	0
+Emanuel_Ginobili	2	1	4	0
+Emile_Lahoud	1	0	2	0
+Emily_Robison	1	0	2	0
+Emma_Thompson	1	0	2	0
+Emma_Thompson	1	0	3	0
+Emmanuelle_Beart	1	1	2	1
+Emmanuelle_Beart	2	0	3	1
+Emmit_Smith	1	0	2	1
+Enrique_Bolanos	1	1	2	0
+Enrique_Bolanos	2	0	5	1
+Enrique_Bolanos	4	0	5	1
+Eric_Clapton	1	0	2	1
+Eric_Rosser	1	0	2	1
+Erika_Harold	2	0	5	1
+Ernesto_Zedillo	1	0	2	1
+Ernie_Els	1	1	3	0
+Ethan_Hawke	1	0	4	1
+Ethan_Hawke	2	0	4	0
+Ethan_Hawke	3	0	4	0
+Eunice_Barber	1	0	2	1
+Eva_Dimas	1	1	2	1
+Evander_Holyfield	1	0	2	1
+Eve_Pelletier	1	0	2	0
+Farouk_al-Sharaa	1	1	3	0
+Farouk_al-Sharaa	2	1	3	0
+Federico_Trillo	1	1	3	1
+Felix_Mantilla	1	0	2	1
+Fernando_Gonzalez	2	1	6	1
+Fernando_Gonzalez	4	0	7	0
+Fernando_Henrique_Cardoso	1	1	3	1
+Fidel_Castro	4	0	14	1
+Flavia_Delaroli	1	1	2	0
+Frances_Fisher	1	1	2	1
+Francis_Ford_Coppola	1	1	2	1
+Francisco_Flores	3	0	4	1
+Frank_Griswold	1	1	2	0
+Frank_Solich	1	1	2	0
+Frank_Solich	3	0	4	1
+Franz_Muentefering	1	0	3	1
+Franz_Muentefering	1	1	4	0
+Franz_Muentefering	2	0	3	1
+Fred_Thompson	2	1	3	0
+Fujio_Cho	1	1	5	1
+Gabriel_Valdes	1	0	2	1
+Garry_Kasparov	1	1	2	0
+Gary_Carter	1	0	2	1
+Gary_Carter	1	1	3	0
+Gary_Forsee	1	1	2	1
+Gary_Locke	1	1	2	0
+George_Clooney	2	0	8	0
+George_Clooney	3	1	9	1
+George_Clooney	5	1	7	1
+George_Galloway	1	0	4	1
+George_HW_Bush	1	1	10	1
+George_HW_Bush	5	1	13	0
+George_HW_Bush	10	0	13	1
+George_Lopez	1	0	4	1
+George_P_Bush	1	0	2	1
+George_Pataki	1	1	5	1
+George_Roy_Hill	1	0	2	0
+George_Voinovich	1	0	2	0
+George_Voinovich	1	0	3	0
+Gerardo_Gambala	1	1	2	0
+Gerry_Parsky	1	0	2	0
+Gian_Marco	2	1	3	1
+Gil_de_Ferran	2	1	3	1
+Gisele_Bundchen	1	1	2	1
+Gloria_Allred	1	1	2	1
+Gloria_Macapagal_Arroyo	29	1	40	1
+Gloria_Trevi	1	0	3	1
+Gloria_Trevi	2	1	4	1
+Gloria_Trevi	3	1	4	0
+Goldie_Hawn	2	0	6	0
+Gonzalo_Sanchez_de_Lozada	3	0	10	0
+Gonzalo_Sanchez_de_Lozada	4	1	8	0
+Gonzalo_Sanchez_de_Lozada	7	0	8	1
+Goran_Persson	1	1	2	1
+Grady_Irvin_Jr	1	0	2	0
+Grant_Hackett	2	1	3	0
+Greg_Rusedski	1	1	4	0
+Greg_Rusedski	2	0	4	0
+Greg_Rusedski	3	0	4	1
+Gregg_Popovich	3	0	4	0
+Guillaume_Soro	1	0	2	0
+Guillermo_Canas	1	0	2	0
+Guillermo_Canas	1	0	4	0
+Guillermo_Canas	2	0	4	1
+Guillermo_Coria	19	1	29	0
+Guillermo_Coria	21	1	27	1
+Guillermo_Ortiz	1	1	2	1
+Gunter_Pleuger	2	0	5	0
+Gustavo_Kuerten	1	0	2	1
+Gustavo_Kuerten	2	0	3	0
+Habib_Rizieq	4	0	5	0
+Hal_Gehman	1	0	3	1
+Hal_Sutton	1	0	2	1
+Halle_Berry	1	1	10	1
+Halle_Berry	7	1	15	1
+Halle_Berry	10	0	16	1
+Hamid_Karzai	1	0	2	1
+Hamzah_Haz	1	1	2	1
+Hanan_Ashrawi	1	1	2	0
+Hans_Blix	2	0	3	1
+Hans_Blix	6	0	36	1
+Hans_Blix	14	1	36	1
+Harbhajan_Singh	1	1	2	1
+Hashim_Thaci	1	0	2	1
+Hassan_Nasrallah	1	1	2	1
+Heath_Ledger	1	1	2	0
+Hector_Babenco	1	0	2	0
+Hee-Won_Han	1	0	3	1
+Heidi_Klum	1	1	3	0
+Helen_Clark	3	0	4	1
+Henrique_Meirelles	1	0	2	0
+Herta_Daeubler-Gmelin	1	0	2	1
+Hideki_Matsui	1	0	2	0
+Hilary_Duff	1	1	3	1
+Hilary_Duff	2	0	3	1
+Hillary_Clinton	1	0	14	1
+Hillary_Clinton	8	0	14	0
+Hilmi_Ozkok	1	1	2	0
+Hipolito_Mejia	1	0	3	1
+Hisao_Oguchi	1	1	2	1
+Holly_Hunter	2	1	3	1
+Holly_Hunter	2	0	5	1
+Holly_Hunter	4	0	7	0
+Hootie_Johnson	1	1	2	1
+Hosni_Mubarak	8	0	9	1
+Hu_Jintao	1	0	2	1
+Hu_Jintao	1	1	12	0
+Hu_Jintao	2	0	3	0
+Hugh_Grant	1	1	7	0
+Hugh_Grant	1	0	9	1
+Hun_Sen	1	1	2	1
+Hun_Sen	1	1	4	0
+Ian_McKellen	1	1	2	1
+Ian_McKellen	1	0	3	0
+Ian_McKellen	2	1	3	1
+Ibrahim_Jaafari	1	0	2	0
+Igor_Ivanov	5	1	16	1
+Ilan_Ramon	1	1	3	1
+Inam-ul-Haq	1	1	2	1
+Inocencio_Arias	1	0	2	0
+Intisar_Ajouri	2	0	3	0
+Jack_Straw	4	1	22	0
+Jackie_Chan	1	0	10	1
+Jackie_Chan	7	1	12	1
+Jacqueline_Obradors	1	0	2	0
+Jada_Pinkett_Smith	1	1	2	1
+James_Caan	1	0	2	1
+James_Cunningham	1	0	2	0
+James_Cunningham	2	1	3	0
+James_Gandolfini	1	1	3	1
+James_Jones	1	0	2	1
+James_Parker	1	0	2	0
+James_Schultz	1	1	2	0
+James_Traficant	1	1	2	1
+James_Traficant	1	1	3	1
+James_Wolfensohn	1	0	3	0
+Jan-Michael_Gambill	1	1	3	0
+Jane_Fonda	1	0	2	0
+Jane_Pauley	1	1	2	1
+Janet_Napolitano	1	1	4	0
+Janet_Napolitano	2	0	3	1
+Jason_Jennings	1	1	2	1
+Jason_Kidd	1	0	4	1
+Jason_Kidd	1	1	10	1
+Jason_Kidd	5	1	6	1
+Jason_Kidd	6	1	9	1
+Jason_Kidd	6	1	10	1
+Javier_Solana	2	0	6	0
+Javier_Solana	6	0	7	0
+Jay_Leno	2	0	3	1
+Jayson_Williams	1	0	2	0
+Jean-Claude_Braquet	1	0	2	0
+Jean-David_Levitte	3	0	4	0
+Jean-David_Levitte	6	1	7	0
+Jean-David_Levitte	8	1	10	1
+Jean-Francois_Pontal	1	1	3	1
+Jean-Sebastien_Giguere	1	0	2	0
+Jean_Brumley	1	1	2	0
+Jean_Chretien	3	0	8	1
+Jean_Chretien	22	1	30	0
+Jean_Chretien	31	1	50	1
+Jeanne_Moreau	1	1	2	0
+Jeb_Bush	4	0	12	1
+Jeff_Van_Gundy	1	1	3	0
+Jeffrey_Archer	1	1	2	0
+Jeffrey_Immelt	1	1	2	0
+Jeffrey_Jones	1	0	2	0
+Jennifer_Aniston	5	1	13	0
+Jennifer_Garner	1	1	6	1
+Jennifer_Garner	1	1	10	1
+Jennifer_Garner	4	0	5	0
+Jennifer_Garner	5	0	11	1
+Jennifer_Lopez	4	0	7	0
+Jennifer_Lopez	5	0	15	1
+Jennifer_Lopez	10	0	21	1
+Jerry_Regier	2	1	3	0
+Jessica_Lynch	1	0	2	1
+Jia_Qinglin	1	0	2	1
+Jim_Carrey	2	1	3	0
+Jim_Edmonds	1	1	2	1
+Jim_Furyk	1	1	6	1
+Jim_OBrien	1	0	3	1
+Jim_OBrien	2	1	3	0
+Jim_Tressel	1	0	2	0
+Jim_Tressel	2	1	3	1
+Jiri_Novak	1	0	10	1
+Jiri_Novak	4	1	7	1
+Jiri_Novak	9	1	11	1
+Jo_Dee_Messina	1	1	2	0
+Joan_Claybrook	1	0	2	1
+Joan_Laporta	2	0	7	0
+Job_Cohen	1	0	2	1
+Joe_Calzaghe	1	0	2	1
+Joe_Dumars	1	0	2	0
+Joe_Gatti	1	1	2	1
+Joe_Torre	2	1	3	0
+Joe_Torre	2	1	4	0
+Joerg_Haider	1	1	2	0
+John_Abizaid	3	0	9	0
+John_Ashcroft	18	1	21	0
+John_Ashcroft	25	0	27	1
+John_Ashcroft	35	1	53	1
+John_Cusack	1	1	2	0
+John_F_Kennedy_Jr	1	0	2	1
+John_Kerry	1	1	2	0
+John_Kerry	5	0	14	1
+John_Manley	2	1	7	0
+John_Manley	3	0	4	1
+John_Manley	4	0	5	1
+John_McCain	3	0	4	1
+John_McCain	5	1	6	0
+John_McCormack	1	1	2	0
+John_Paul_II	3	1	11	0
+John_Reid	1	1	2	0
+John_Rigas	1	0	2	0
+John_Rosa	2	1	3	0
+John_Ruiz	1	1	2	0
+John_Snow	2	1	4	0
+John_Snow	4	0	7	1
+John_Snow	8	0	16	1
+John_Snow	14	0	17	0
+John_Swofford	1	0	3	0
+John_Taylor	1	0	2	1
+John_Warner	1	1	2	0
+John_Warner	1	1	4	1
+John_Warner	2	0	3	1
+Johnny_Tapia	1	0	3	1
+Johnny_Tapia	2	1	3	1
+Jon_Gruden	2	0	7	1
+Jonathan_Edwards	2	0	4	0
+Jonathan_Mostow	1	1	2	1
+Jong_Wook_Lee	1	1	3	0
+Jorge_Batlle	1	0	3	0
+Jorge_Batlle	2	0	3	1
+Joschka_Fischer	14	1	15	1
+Jose_Canseco	1	0	2	0
+Jose_Manuel_Durao_Barroso	1	1	6	0
+Jose_Manuel_Durao_Barroso	2	1	5	0
+Jose_Manuel_Durao_Barroso	3	0	5	1
+Jose_Maria_Aznar	4	0	22	0
+Jose_Maria_Aznar	14	0	20	0
+Jose_Mourinho	1	1	2	0
+Jose_Sarney	1	0	2	1
+Jose_Serra	1	0	9	0
+Jose_Viegas_Filho	1	1	2	1
+Joseph_Biden	1	1	3	0
+Joseph_Biden	2	0	3	0
+Joseph_Blatter	1	0	2	1
+Joseph_Estrada	2	1	4	1
+Juan_Carlos_Ferrero	2	1	9	0
+Juan_Carlos_Ferrero	7	0	18	0
+Juan_Ignacio_Chela	1	0	3	0
+Juan_Pablo_Montoya	3	1	5	1
+Juan_Valencia_Osorio	1	0	2	1
+Juanes	1	0	2	1
+Juanes	1	1	3	0
+Juanes	2	0	3	1
+Judy_Genshaft	1	1	2	1
+Juergen_Peters	1	1	2	0
+Julia_Tymoshenko	1	0	2	1
+Julia_Tymoshenko	1	1	3	0
+Julianne_Moore	6	1	12	1
+Julianne_Moore	9	1	12	1
+Julie_Taymor	1	1	2	0
+Justin_Guarini	1	0	3	0
+Justin_Guarini	2	1	3	1
+Kate_Capshaw	1	1	2	1
+Kate_Hudson	2	0	4	1
+Kate_Winslet	1	0	4	1
+Kate_Winslet	2	0	4	0
+Katherine_Harris	2	0	3	0
+Kathleen_Glynn	1	1	2	1
+Kathryn_Bigelow	1	0	2	0
+Katie_Harman	2	0	3	0
+Keanu_Reeves	2	0	5	1
+Keanu_Reeves	2	1	12	1
+Keanu_Reeves	4	1	6	1
+Kelli_White	1	1	2	0
+Kelly_Clarkson	1	0	3	1
+Kemal_Dervis	1	0	2	1
+Ken_Watanabe	1	0	2	0
+Kent_Rominger	1	0	2	0
+Kevin_Spacey	1	0	5	1
+Kevin_Spacey	2	0	4	0
+Kevin_Stallings	1	0	2	1
+Kim_Clijsters	4	0	9	0
+Kim_Ryong-sung	3	1	10	1
+Kim_Ryong-sung	4	1	6	1
+Kim_Ryong-sung	4	0	9	0
+Kimi_Raikkonen	1	1	3	0
+Kimi_Raikkonen	2	1	3	0
+Kobe_Bryant	1	1	3	1
+Kobe_Bryant	2	0	3	0
+Kurt_Busch	1	0	2	0
+Kurt_Russell	1	0	2	0
+Laila_Ali	1	1	2	0
+Larry_Brown	1	0	2	0
+Larry_Brown	3	0	7	0
+Larry_Johnson	1	0	2	0
+Larry_Lucchino	1	0	2	0
+Lars_Von_Trier	1	1	3	1
+Laura_Bush	4	1	32	1
+Laura_Bush	11	0	40	0
+Laura_Bush	13	0	16	0
+Lauren_Hutton	1	1	2	1
+LeAnn_Rimes	1	0	2	1
+Leander_Paes	1	0	2	1
+Lech_Walesa	1	1	2	0
+Lee_Hoi-chang	1	0	3	0
+Lee_Jun	1	1	2	0
+Lee_Soo-hyuck	1	1	2	1
+Lee_Soo-hyuck	1	0	3	0
+Lee_Tae-sik	1	1	2	0
+Lennox_Lewis	2	1	3	0
+Lenny_Wilkens	2	1	3	1
+Leonard_Hamilton	1	0	2	1
+Lesley_McCulloch	1	1	2	1
+Li_Peng	1	0	7	0
+Li_Zhaoxing	1	0	3	1
+Li_Zhaoxing	1	0	5	1
+Li_Zhaoxing	2	1	8	0
+Lim_Dong-won	1	0	2	0
+Lionel_Richie	1	1	2	0
+Lisa_Gottsegen	1	0	2	1
+Lisa_Ling	1	0	2	1
+Liu_Mingkang	1	0	2	1
+Lleyton_Hewitt	10	1	12	0
+Lon_Kruger	1	0	2	1
+Lou_Piniella	1	0	3	1
+Ludivine_Sagnier	1	1	4	1
+Luiz_Inacio_Lula_da_Silva	12	0	33	0
+Luiz_Inacio_Lula_da_Silva	17	0	42	0
+Luiz_Inacio_Lula_da_Silva	25	1	33	1
+Luke_Walton	1	0	2	0
+Lynne_Cheney	1	1	3	1
+Lynne_Cheney	2	0	3	1
+Madonna	2	0	5	1
+Magdalena_Maleeva	1	0	2	0
+Mahathir_Mohamad	9	1	10	1
+Mahathir_Mohamad	11	0	12	1
+Manuel_Poggiali	1	1	2	1
+Marc-Andre_Fleury	1	1	2	0
+Marc_Grossman	1	1	2	0
+Marc_Grossman	1	1	3	0
+Marcelo_Ebrard	1	1	2	1
+Marco_Antonio_Barrera	3	0	6	1
+Marcus_Gronholm	1	1	2	1
+Margaret_Thatcher	1	1	2	0
+Maria_Luisa_Mendonca	1	0	2	1
+Maria_Soledad_Alvear_Valenzuela	1	1	5	0
+Maria_Soledad_Alvear_Valenzuela	2	0	3	0
+Mariana_Pollack	1	1	2	1
+Marie-Reine_Le_Gougne	1	1	2	0
+Marilyn_Monroe	1	0	2	0
+Marina_Anissina	1	0	2	1
+Mark_Geragos	1	1	2	1
+Mark_Gottfried	1	1	2	1
+Mark_Hamister	1	0	2	0
+Mark_Hurlbert	2	0	5	1
+Mark_Schweiker	1	0	2	1
+Mark_Warner	1	1	2	1
+Martha_Beatriz_Roque	1	0	2	0
+Martha_Bowen	1	1	2	1
+Martha_Lucia_Ramirez	2	1	3	0
+Martin_Brodeur	1	0	2	0
+Martin_Hoellwarth	1	1	2	1
+Martin_McCauley	1	1	2	0
+Martin_Scorsese	2	1	6	1
+Martin_Scorsese	3	0	6	0
+Martin_Scorsese	4	1	5	0
+Martina_Hingis	1	1	3	0
+Martina_McBride	2	0	4	0
+Martina_McBride	3	1	4	1
+Marty_Mornhinweg	2	0	3	0
+Mary-Kate_Olsen	1	1	2	0
+Mary_Steenburgen	2	0	3	0
+Masahiko_Nagasawa	1	0	2	0
+Mathias_Reichhold	1	1	3	0
+Matt_Damon	1	0	4	0
+Matt_Damon	2	0	4	1
+Matt_Damon	3	0	4	0
+Matthew_Perry	3	1	5	0
+Matthew_Perry	3	0	6	1
+Matthew_Perry	6	1	7	1
+Maureen_Fanning	1	0	2	0
+Mel_Brooks	1	1	2	1
+Mel_Gibson	1	0	2	1
+Mesut_Yilmaz	1	0	2	0
+Mian_Khursheed_Mehmood_Kasuri	2	0	3	1
+Michael_Ballack	1	1	3	1
+Michael_Ballack	2	0	3	1
+Michael_Bloomberg	1	0	16	1
+Michael_Caine	1	0	4	0
+Michael_Caine	2	0	4	1
+Michael_Chiklis	2	1	4	0
+Michael_Douglas	3	1	5	1
+Michael_Jordan	1	0	3	0
+Michael_Jordan	1	0	4	0
+Michael_Kostelnik	1	0	2	1
+Michael_Moore	1	0	3	0
+Michael_Patrick_King	1	1	2	0
+Michael_Powell	2	0	4	0
+Michael_Winterbottom	1	0	3	1
+Michael_Winterbottom	2	0	3	0
+Mick_Jagger	2	0	4	1
+Miguel_Estrada	1	0	2	1
+Mike_Babcock	1	0	2	1
+Mike_Krzyzewski	2	1	4	1
+Mike_Martz	3	1	5	0
+Mike_Martz	4	0	5	1
+Mike_Miller	1	0	2	0
+Mike_Myers	5	1	7	1
+Mike_Scioscia	1	1	2	0
+Mike_Tyson	1	0	3	0
+Mikhail_Kasyanov	1	1	2	1
+Mikhail_Wehbe	1	1	4	0
+Milo_Djukanovic	1	1	3	0
+Milo_Maestrecampo	1	1	2	0
+Milo_Maestrecampo	1	0	3	1
+Milo_Maestrecampo	2	1	3	1
+Miroljub	1	1	2	0
+Miyako_Miyazaki	1	1	2	0
+Mohamed_Benaissa	1	0	2	1
+Mohammed_Al-Douri	2	0	5	0
+Monica_Bellucci	1	1	3	1
+Monica_Seles	2	1	3	1
+Monica_Seles	4	1	6	1
+Monique_Garbrecht-Enfeldt	1	1	3	1
+Monique_Garbrecht-Enfeldt	2	1	3	1
+Morgan_Freeman	1	1	2	0
+Moshe_Katsav	1	1	4	1
+Moshe_Katsav	2	0	3	0
+Moshe_Katsav	2	0	4	1
+Muhammad_Saeed_al-Sahhaf	1	1	5	0
+Muhammad_Saeed_al-Sahhaf	3	1	4	0
+Muhammad_Saeed_al-Sahhaf	4	0	5	0
+Mukesh_Ambani	1	1	3	0
+Munir_Akram	1	0	2	1
+Nabil_Shaath	1	1	3	0
+Nadia_Petrova	1	1	5	1
+Naji_Sabri	4	1	8	1
+Nancy_Demme	1	0	2	0
+Nancy_Reagan	1	0	2	0
+Nancy_Sinatra	1	1	2	0
+Nanni_Moretti	1	0	2	0
+Naomi_Watts	12	1	14	1
+Natasha_McElhone	2	1	3	1
+Nathalie_Baye	1	0	3	0
+Nathalie_Baye	2	1	4	1
+Nathan_Lane	1	1	2	1
+Nebojsa_Pavkovic	1	0	2	0
+Nia_Vardalos	3	1	4	0
+Nicholas_Tse	1	0	2	0
+Nick_Nolte	1	0	4	0
+Nicolas_Cage	1	1	2	1
+Nicolas_Escude	1	1	2	1
+Nicolas_Lapentti	1	1	2	1
+Noelle_Bush	2	1	4	0
+Norah_Jones	5	1	13	1
+Norman_Jewison	1	0	2	0
+Norodom_Sihanouk	1	0	2	0
+Norodom_Sihanouk	2	1	3	0
+Nursultan_Nazarbayev	1	1	2	1
+Oleksandr_Moroz	1	0	2	0
+Olesya_Bonabarenko	1	0	2	0
+Oswaldo_Paya	3	1	5	1
+Oxana_Fedorova	2	1	4	1
+Paradorn_Srichaphan	3	1	7	0
+Paradorn_Srichaphan	8	1	10	0
+Pascal_Lamy	1	0	2	0
+Pat_Cox	1	0	2	1
+Patricia_Clarkson	1	0	2	1
+Patricia_Clarkson	1	1	3	0
+Patricia_Heaton	1	1	2	0
+Patrick_Ewing	1	1	2	1
+Patrick_Roy	1	0	2	1
+Patrick_Stewart	1	1	2	1
+Paul_Coppin	1	1	2	0
+Paul_McCartney	4	1	6	1
+Paul_McNulty	1	0	2	0
+Paul_ONeill	8	1	9	0
+Paul_Pierce	1	0	2	0
+Paul_Tagliabue	1	0	3	1
+Paul_Tagliabue	2	0	3	1
+Paul_Tagliabue	2	0	4	1
+Paul_Wolfowitz	2	0	10	1
+Paul_Wolfowitz	3	1	7	0
+Paul_Wolfowitz	3	0	8	1
+Paul_Wolfowitz	5	0	6	1
+Paula_Radcliffe	4	0	5	0
+Penelope_Ann_Miller	1	0	2	1
+Pete_Carroll	1	1	2	1
+Pete_Carroll	2	1	3	1
+Pete_Sampras	3	0	18	1
+Peter_Arnett	2	1	3	0
+Peter_Bacanovic	1	0	2	1
+Peter_Hillary	1	1	2	1
+Peter_Struck	1	1	3	0
+Peter_Struck	1	1	5	1
+Petria_Thomas	1	0	2	0
+Philippe_Noiret	1	0	2	1
+Prince_Charles	2	1	4	1
+Prince_Claus	1	1	3	0
+Prince_Edward	1	0	2	1
+Prince_Harry	1	0	2	1
+Prince_Naruhito	2	1	3	0
+Prince_William	1	0	2	0
+Princess_Anne	1	0	2	1
+Princess_Caroline	1	1	4	1
+Princess_Elisabeth	1	0	2	0
+Princess_Masako	1	0	2	0
+Priscilla_Owen	1	1	2	1
+Pupi_Avati	2	0	3	0
+Queen_Beatrix	1	1	4	1
+Queen_Beatrix	2	0	3	1
+Queen_Elizabeth_II	4	1	11	1
+Queen_Elizabeth_II	5	1	13	1
+Queen_Elizabeth_II	6	0	7	1
+Queen_Elizabeth_II	6	0	11	1
+Queen_Latifah	1	0	3	0
+Rainer_Schuettler	1	0	4	0
+Rainer_Schuettler	3	1	4	0
+Ralph_Lauren	1	0	2	1
+Ranil_Wickremasinghe	2	1	3	1
+Raoul_Ruiz	1	1	4	0
+Raoul_Ruiz	3	1	4	0
+Raquel_Welch	1	0	2	0
+Ray_Allen	1	1	2	1
+Ray_Allen	2	1	3	1
+Raymond_Odierno	1	0	2	0
+Rebekah_Chantay_Revels	2	0	4	0
+Rebekah_Chantay_Revels	3	1	4	0
+Recep_Tayyip_Erdogan	2	0	4	0
+Recep_Tayyip_Erdogan	2	1	8	1
+Recep_Tayyip_Erdogan	14	1	29	0
+Reggie_Miller	1	1	2	1
+Ricardo_Lagos	1	1	3	1
+Ricardo_Lagos	2	1	23	0
+Ricardo_Lagos	9	1	22	0
+Ricardo_Lagos	17	0	18	1
+Ricardo_Monasterio	1	0	2	1
+Ricardo_Sanchez	3	1	4	1
+Richard_Branson	1	0	2	0
+Richard_Gephardt	1	1	3	0
+Richard_Gephardt	2	0	6	1
+Richard_Haass	1	0	2	0
+Richard_Krajicek	2	1	3	0
+Richard_Myers	3	1	4	1
+Richard_Myers	3	1	14	1
+Richard_Virenque	3	0	4	0
+Rick_Barnes	1	1	2	0
+Rick_Barnes	1	1	3	1
+Rick_Santorum	2	0	3	1
+Rick_Stansbury	1	0	2	1
+Ricky_Martin	1	0	2	0
+Rio_Ferdinand	1	0	2	0
+Rob_Lowe	1	1	3	0
+Rob_Lowe	2	0	3	0
+Rob_Lowe	3	0	4	0
+Rob_Marshall	4	0	6	0
+Robbie_Williams	1	1	3	1
+Robert_Blackwill	1	1	2	1
+Robert_Bullock	1	1	2	0
+Robert_De_Niro	1	1	2	1
+Robert_De_Niro	1	1	6	1
+Robert_De_Niro	5	0	6	1
+Robert_Duvall	1	1	7	1
+Robert_Duvall	3	1	6	1
+Robert_Ehrlich	1	0	2	0
+Robert_Fico	1	0	2	1
+Robert_Kocharian	3	0	4	0
+Robert_Mugabe	1	1	2	0
+Robert_Stack	1	1	2	1
+Robert_Witt	1	1	2	0
+Robert_Zoellick	2	1	6	1
+Roberto_Benigni	1	1	2	0
+Roberto_Carlos	1	0	2	0
+Robinson_Stevenin	1	0	2	0
+Roger_Federer	4	0	8	1
+Roger_Federer	4	0	12	0
+Roger_Moore	3	1	5	0
+Rogerio_Romero	1	0	2	0
+Roh_Moo-hyun	1	1	31	0
+Roh_Moo-hyun	7	1	15	1
+Roman_Polanski	2	0	5	1
+Roseanne_Barr	1	0	2	0
+Roseanne_Barr	1	0	3	0
+Ruben_Studdard	1	0	2	1
+Rubens_Barrichello	1	1	9	1
+Rubens_Barrichello	2	0	6	0
+Rubens_Barrichello	5	1	10	0
+Rudolph_Giuliani	6	0	17	0
+Ruth_Dreifuss	1	1	2	1
+Ruth_Harlow	1	1	2	0
+Saburo_Kawabuchi	1	0	2	1
+Sachiko_Yamada	1	0	4	1
+Sachiko_Yamada	2	1	3	0
+Sachiko_Yamada	2	1	4	1
+Sachiko_Yamada	3	0	4	1
+Sadie_Frost	2	1	3	0
+Saeb_Erekat	1	0	2	0
+Sally_Ride	1	1	2	1
+Sam_Bith	1	0	2	1
+Sam_Torrance	2	1	3	1
+Samira_Makhmalbaf	1	1	2	1
+Sammy_Sosa	1	1	2	1
+Sandra_Bullock	1	0	4	0
+Sandra_Bullock	2	0	4	1
+Sandra_Bullock	3	1	4	1
+Sarah_Hughes	1	1	2	0
+Sarah_Hughes	1	1	6	1
+Sarah_Michelle_Gellar	2	0	3	0
+Scott_Peterson	1	1	3	1
+Scott_Peterson	4	1	5	1
+Scott_Wolf	1	0	2	1
+Sean_Hayes	1	1	2	1
+Sebastien_Grosjean	1	0	3	1
+Sebastien_Grosjean	2	1	4	1
+Sepp_Blatter	1	0	2	1
+Sepp_Blatter	3	1	4	1
+Serena_Williams	17	0	52	0
+Sergei_Ivanov	1	0	5	0
+Sergio_Garcia	1	0	2	1
+Sergio_Vieira_De_Mello	5	1	6	1
+Shane_Warne	1	0	2	0
+Sharon_Davis	1	0	2	1
+Sharon_Frey	1	0	2	0
+Sheila_Copps	1	1	3	0
+Sheila_Fraser	1	0	2	1
+Sheryl_Crow	3	0	8	1
+Shia_LaBeouf	1	1	2	1
+Shimon_Peres	2	0	6	1
+Sila_Calderon	1	0	3	0
+Silvan_Shalom	1	0	6	1
+Silvia_Farina_Elia	1	1	2	0
+Silvia_Farina_Elia	1	0	3	0
+Slobodan_Milosevic	2	1	3	0
+Sonia_Gandhi	1	0	3	0
+Sonia_Gandhi	2	1	3	1
+Stacy_Dragila	1	0	2	0
+Stephen_Daldry	1	0	2	1
+Stephen_Friedman	1	0	2	0
+Steve_Ballmer	1	0	2	0
+Steve_Ballmer	2	1	3	0
+Steve_Mariucci	1	1	2	0
+Steve_Mariucci	2	0	3	0
+Steve_Nash	2	0	4	1
+Steve_Spurrier	1	0	2	0
+Steve_Waugh	1	1	2	1
+Steven_Spielberg	1	1	6	1
+Stockard_Channing	1	0	3	1
+Susan_Sarandon	2	0	3	0
+Susan_Sarandon	2	1	6	0
+Susan_Sarandon	4	0	6	1
+Susilo_Bambang_Yudhoyono	1	1	2	0
+Sylvester_Stallone	1	0	5	0
+Takashi_Sorimachi	1	0	2	0
+Ted_Maher	1	0	2	1
+Terje_Roed-Larsen	1	0	2	1
+Terry_Stotts	1	1	2	1
+Theresa_May	1	1	3	0
+Thierry_Falise	1	0	3	1
+Thomas_Birmingham	1	0	2	1
+Thomas_Bjorn	1	1	2	1
+Thomas_Malchow	1	1	2	0
+Tiger_Woods	1	0	3	0
+Tiger_Woods	7	0	17	0
+Tiger_Woods	7	0	19	1
+Tiger_Woods	19	1	20	1
+Tim_Conway	1	0	2	0
+Tim_Duncan	3	1	4	1
+Tim_Henman	2	0	18	0
+Tim_Henman	10	0	16	1
+Tim_Henman	15	0	19	0
+Tim_Robbins	2	1	3	0
+Tom_Craddick	2	0	3	1
+Tom_Craddick	3	0	4	0
+Tom_Crean	4	1	5	1
+Tom_Daschle	18	0	21	1
+Tom_Hanks	1	0	2	1
+Tom_Hanks	3	1	10	1
+Tom_Hanks	6	0	10	0
+Tom_Harkin	1	0	4	0
+Tom_Harkin	3	0	4	1
+Tom_Harkin	3	0	5	1
+Tom_Reilly	1	1	2	0
+Tom_Reilly	1	1	3	0
+Tom_Ridge	2	0	18	0
+Tom_Ridge	3	0	22	0
+Tom_Ridge	10	1	15	0
+Tommy_Robredo	1	0	2	1
+Tommy_Robredo	1	0	3	0
+Tommy_Robredo	2	1	3	0
+Tony_Bennett	1	0	3	1
+Tony_Blair	6	1	94	1
+Torri_Edwards	1	0	2	1
+Tracy_McGrady	1	0	2	1
+Trent_Lott	3	0	8	0
+Tubby_Smith	2	1	3	1
+Tyra_Banks	1	0	2	0
+Tyron_Garner	1	1	2	0
+Uma_Thurman	1	0	2	1
+Valdas_Adamkus	1	1	2	0
+Valentino_Rossi	4	0	5	0
+Vanessa_Incontrada	3	1	4	1
+Venus_Williams	6	1	15	1
+Venus_Williams	8	0	9	0
+Vicki_Zhao_Wei	1	0	2	0
+Victoria_Clarke	2	0	5	0
+Victoria_Clarke	3	1	5	0
+Vidar_Helgesen	1	1	2	0
+Vin_Diesel	1	0	2	1
+Vince_Carter	1	0	2	1
+Vincent_Gallo	1	0	3	0
+Vivica_Fox	1	0	2	1
+Vladimir_Putin	1	1	22	1
+Vladimir_Voltchkov	1	1	2	1
+Vojislav_Kostunica	3	1	7	1
+Walter_Mondale	1	1	4	0
+Wayne_Gretzky	2	0	3	1
+William_Bratton	1	1	2	1
+William_Bratton	1	1	3	0
+William_Bratton	2	1	3	1
+William_Bulger	1	1	2	1
+William_Bulger	2	0	3	1
+William_Bulger	2	0	4	0
+William_Donaldson	3	1	7	1
+William_Ford_Jr	1	0	3	1
+William_Ford_Jr	2	0	3	0
+William_Ford_Jr	3	0	4	1
+William_Hochul	1	0	2	1
+Win_Aung	1	0	3	0
+Win_Aung	1	1	4	1
+Wolfgang_Schuessel	1	0	3	0
+Wu_Yi	1	1	3	1
+Xanana_Gusmao	2	1	4	1
+Xavier_Malisse	2	1	3	0
+Xavier_Malisse	2	0	4	1
+Yann_Martel	1	1	2	1
+Yao_Ming	1	1	4	0
+Yao_Ming	4	0	6	1
+Yasar_Yakis	1	1	3	0
+Yasar_Yakis	3	0	4	1
+Yashwant_Sinha	2	1	3	1
+Yashwant_Sinha	2	0	6	1
+Yoko_Ono	1	1	2	0
+Yoko_Ono	1	1	4	1
+Yossi_Beilin	1	1	2	1
+Yu_Shyi-kun	3	1	4	0
+Yuri_Fedotov	1	0	2	1
+Yuri_Malenchenko	1	0	2	1
+Zhang_Wenkang	1	0	2	0
+Zhu_Rongji	1	1	9	1
+Zhu_Rongji	4	1	7	0
+Zhu_Rongji	4	1	8	0
+Zhu_Rongji	5	0	6	1
+Zinedine_Zidane	2	1	4	1
+AJ_Cook	1	0	Marsha_Thomason	1	1
+Aaron_Sorkin	2	1	Frank_Solich	5	0
+Abdel_Nasser_Assidi	2	0	Hilary_McKay	1	0
+Abdoulaye_Wade	4	0	Linda_Dano	1	1
+Abdul_Rahman	1	1	Magui_Serna	1	1
+Abdullah	1	1	Dwain_Kyles	1	0
+Abdullah_Nasseef	1	1	Hipolito_Mejia	3	0
+Abel_Pacheco	1	0	Matt_Roney	1	0
+Abel_Pacheco	4	1	Lucio_Stanca	1	1
+Abner_Martinez	1	1	Aidan_Quinn	1	1
+Abner_Martinez	1	0	Andre_Techine	1	1
+Aby_Har-Even	1	0	Ricardo_Lopez_Murphy	2	0
+Adisai_Bodharamik	1	0	Jesper_Parnevik	1	1
+Adisai_Bodharamik	1	1	Mel_Brooks	2	1
+Adolfo_Aguilar_Zinser	2	1	Ian_Wilmut	1	0
+Adolfo_Aguilar_Zinser	3	0	Soon_Yi	1	1
+Adolfo_Rodriguez_Saa	1	0	Catherine_Deneuve	2	1
+Adrian_Nastase	2	1	Ham_Pong-sil	1	0
+Afton_Smith	1	0	Marcos_Cafu	1	1
+Afton_Smith	1	1	Mario_Lobo_Zagallo	1	0
+Ahmed_Ahmed	1	0	David_Canary	1	1
+Ahmed_Chalabi	1	1	Gian_Marco	3	0
+Ahmed_Ibrahim_Bilal	1	1	Audrey_Lacroix	1	1
+Ahmed_Ibrahim_Bilal	1	1	Eric_Christian_Olsen	1	1
+Ahmed_Ibrahim_Bilal	1	0	Paul_Wilson	1	1
+Ahmed_Ibrahim_Bilal	1	1	Rolf_Zimmermann	1	1
+Ahmed_Lopez	1	1	Ray_Morrough	1	1
+Ahmet_Demir	1	0	Karen_Lynn_Gorney	1	0
+Ainsworth_Dyer	1	0	Mary_Sue_Coleman	1	0
+Aishwarya_Rai	1	1	Lorne_Michaels	1	1
+Aiysha_Smith	1	1	Elijan_Ingram	1	1
+Akbar_Al_Baker	1	0	Louisa_Baileche	1	1
+Akmal_Taher	1	1	Deena_Burnett	1	0
+Al_Gore	6	0	Jeff_Weaver	1	1
+Alain_Ducasse	1	1	Flavia_Delaroli	1	1
+Alan_Jackson	1	0	Geoff_Dixon	1	0
+Alan_Jackson	1	0	Peter_Albertsen	1	1
+Alan_Trammell	1	0	Lin_Yung_Hsi	1	1
+Albert_Brooks	1	1	Alexander_Downer	1	0
+Albert_Brooks	1	1	Jim_Hendry	1	0
+Alberto_Acosta	1	1	Manuel_Rosendo	1	0
+Alberto_Gonzales	1	0	Li_Changchun	1	0
+Alberto_Gonzales	1	1	Tina_Pisnik	1	1
+Aldo_Paredes	1	1	Azmi_Bishara	1	1
+Alec_Baldwin	3	0	Guy_Ritchie	1	0
+Alec_Baldwin	3	1	Molly_Sims	1	0
+Alejandro_Lembo	1	0	Azmi_Bishara	1	1
+Alejandro_Lopez	1	1	Urmila_Matondkar	1	1
+Alejandro_Toledo	24	1	Dianne_Feinstein	2	0
+Alex_Holmes	1	0	Muhammad_Ibrahim_Bilal	1	0
+Alex_King	1	1	Dennis_Erickson	1	0
+Alex_King	1	0	Lynne_Thigpen	1	0
+Alex_Wallau	1	0	Richard_Krajicek	1	0
+Alexa_Loren	1	1	MC_Hammer	1	1
+Alexander_Lukashenko	1	1	Richard_Haass	1	0
+Alexander_Payne	1	0	Patrice_Chereau	1	0
+Alexandre_Vinokourov	1	0	Bill_Rainer	1	1
+Alfonso_Cuaron	1	1	Marcos_Milinkovic	1	1
+Alfredo_Moreno	1	1	Dwayne_Wade	1	0
+Alfredo_Moreno	1	0	Shane_Reynolds	1	0
+Alfredo_di_Stefano	1	0	Robert_Pollack	1	0
+Ali_Bin_Hussein	1	0	Jean-Luc_Bideau	1	1
+Ali_Hammoud	1	0	Geoffrey_Rush	1	1
+Alicia_Silverstone	1	1	Michael_Doleac	1	0
+Alina_Kabaeva	1	1	Amanda_Plumer	1	0
+Alison_Lohman	1	0	Lyudmila_Putin	1	0
+Allan_Houston	1	1	Marwan_Muasher	1	1
+Allen_Iverson	1	1	Steven_Spielberg	7	0
+Ally_Sheedy	1	1	Arsinee_Khanjian	1	0
+Ally_Sheedy	1	1	Pedro_Velasquez	1	1
+Alvaro_Silva_Calderon	3	0	Toni_Jennings	1	1
+Aly_Wagner	1	1	John_Perrota	1	0
+Amanda_Beard	2	1	Nancy_Greenlaw	1	1
+Amanda_Coetzer	2	0	Rhett_Warrener	1	0
+Amanda_Plumer	1	0	Jean_Brumley	1	0
+Amy_Cotton	1	1	Curt_Weldon	1	1
+Amy_Redford	1	1	Guillaume_Depardieu	1	1
+Amy_Smart	1	1	Cole_Chapman	1	1
+Ana_Guevara	1	1	Michelangelo_Antonioni	1	1
+Anastasia_Kelesidou	1	1	Maribel_Dominguez	1	0
+Anastasia_Myskina	2	1	Maureen_Fanning	1	1
+Anders_Fogh_Rasmussen	4	0	Paula_Dobriansky	1	1
+Andrea_Bocelli	1	1	Glenn_Plummer	1	0
+Andrea_Yates	1	1	Andy_Wisecarver	1	1
+Andrea_Yates	1	0	Mike_Myers	4	0
+Andrei_Nikolishin	1	1	Jessica_Lynch	1	0
+Andres_Manuel_Lopez_Obrador	1	1	John_Jumper	1	1
+Andres_Pastrana	1	1	Juan_Antonio_Samaranch	1	1
+Andrew_Bernard	1	1	Colin_Farrell	6	0
+Andrew_Bunner	1	1	David_Obey	1	1
+Andrew_Cuomo	1	1	Hamad_Bin_Jassim	1	0
+Andrew_Cuomo	2	0	Jean-Rene_Fourtou	1	1
+Andrew_Fastow	1	0	Suzie_McConnell_Serio	1	1
+Andrew_Gilligan	1	1	Hashim_Thaci	2	1
+Andrew_Jarecki	1	1	Emily_Mortimer	1	0
+Andrew_Jarecki	1	1	Mike_Myers	3	0
+Andrew_Weissmann	1	0	Johnny_Benson	1	1
+Andy_Dick	1	1	Linda_Lingle	1	1
+Andy_Madikians	1	1	Solomon_Passy	1	1
+Andy_Roddick	1	0	Richard_Gephardt	4	0
+Andy_Rooney	1	1	Mike_Krzyzewski	2	1
+Andy_Wisecarver	1	0	Peggy_McGuinness	1	0
+Anette_Hosoi	1	0	Dan_Dickau	1	1
+Angel_Maza	1	1	Juliette_Lewis	1	0
+Angela_Merkel	1	1	John_Edwards	6	0
+Angelica_Romero	1	0	Hama_Arba_Diallo	1	1
+Angelo_Genova	1	1	Denise_Locke	1	1
+Anibal_Ibarra	1	1	Christine_Arron	1	1
+Anibal_Ibarra	3	0	Jane_Walker_Wood	1	0
+Anjum_Hussain	1	0	Vaclav_Klaus	1	0
+Ann_Morgan	1	1	Garry_Kasparov	2	1
+Anna_Jones	1	0	Colleen_Atwood	1	0
+Anne_Cavers	1	0	Morgan_Freeman	1	0
+Anne_Cavers	1	0	Sophie	1	0
+Anne_Heche	1	1	Kenneth_Dam	1	1
+Anne_ONeil	1	0	Rohinton_Mistry	1	1
+Anneli_Jaatteenmaki	2	1	Ron_Dittemore	5	0
+Anthony_Mazur	1	1	Ben_Wallace	1	1
+Anthony_Mazur	1	0	Jose_Santos	1	0
+Anthony_Mazur	1	0	Kim_Hong-up	1	0
+Anthony_Pisciotti	1	0	Stephane_Rousseau	1	0
+Anthony_Rackauckas	1	0	Jessica_Brungo	1	0
+Anthony_Rackauckas	1	0	Samantha_Daniels	1	1
+Anthony_Scott_Miller	1	0	Doc_Rivers	1	0
+Anthony_Scott_Miller	1	0	Helen_Clark	2	0
+Antwun_Echols	1	0	Henry_Hyde	1	1
+Anwar_Ibrahim	1	1	Chung_Mong-hun	2	1
+Anwar_Ibrahim	1	0	Santiago_Botero	1	1
+Anzori_Kikalishvili	1	0	Milan_Kucan	1	0
+Aram_Adler	1	1	Stanley_Nelson	1	0
+Ari_Fleischer	1	0	Janet_Leigh	1	0
+Arnie_Boehm	1	1	Natasa_Micic	1	1
+Arnold_Palmer	2	0	Marc_Gold	1	1
+Art_Hoffmann	2	0	Timothy_Coughlin	1	0
+Arthur_Martinez	1	1	Brad_Wilk	1	1
+Artieas_Shanks	1	0	Hrithik_Roshan	1	0
+Arye_Mekel	1	1	Jaouad_Gharib	1	0
+Ashanti	4	0	Tom_Lantos	1	0
+Ashraf_Ghani	1	0	Max_von_Sydow	1	0
+Ashton_Kutcher	3	1	Julio_Toro	1	0
+Asif_Hanif	1	0	John_Connolly	1	1
+Atal_Bihari_Vajpayee	24	1	Sarah_Price	1	0
+Atsushi_Sato	1	1	Zinedine_Zidane	5	0
+Azmi_Bishara	1	1	Ludivine_Sagnier	3	0
+BB_King	1	0	Benjamin_Martinez	1	1
+BJ_Habibie	1	1	Daniel_Chin	1	1
+Baburam_Bhattari	1	0	Carlos_Fasciolo	1	1
+Barbara_Bodine	1	0	Dora_Bakoyianni	1	0
+Barbara_Boxer	1	0	Carin_Koch	1	1
+Barbara_Walters	2	0	Martin_Scorsese	2	1
+Barrett_Jackman	1	0	Maureen_Kanka	1	0
+Barry_Bonds	1	1	Michael_Rolinee	1	0
+Barry_Collier	1	1	Rainer_Schuettler	1	0
+Barry_Ford	1	0	Michael_Bloomberg	18	1
+Barry_Hinson	1	1	John_Cusack	1	1
+Barry_Hinson	1	1	Prince_Naruhito	3	0
+Bart_Hendricks	1	0	David_Beckham	8	1
+Bart_Hendricks	1	0	Des_Brown	1	0
+Basdeo_Panday	1	0	Maggie_Smith	1	0
+Beatriz_Merino	1	1	Mikhail_Kalashnikov	1	0
+Ben_Braun	1	0	Dionyssis_Georgiadis	1	1
+Ben_Braun	1	0	Sereyvuth_Kem	1	0
+Ben_Chandler	1	0	Ralph_Firman	2	0
+Ben_Chandler	1	0	Russell_Simmons	3	1
+Ben_Howland	1	0	Filippo_Volandri	1	1
+Ben_Howland	2	0	Conan_OBrien	1	0
+Ben_Kingsley	1	1	Rob_Marshall	5	0
+Ben_Kingsley	1	1	Tom_Lantos	1	0
+Ben_Lee	1	0	Mike_Holmgren	1	0
+Benedita_da_Silva	1	0	Robert_Weitzel	1	1
+Benedita_da_Silva	1	0	Yao_Ming	6	0
+Benjamin_Bratt	1	0	Mark_Geragos	1	1
+Benjamin_Martinez	1	0	Michael_Leavitt	1	1
+Bernard_Giraudeau	1	1	Eve_Ensler	1	0
+Bernard_Giraudeau	1	1	Marsha_Sharp	1	0
+Bernard_Landry	1	0	Marc_Shaiman	1	1
+Bernard_Law	3	1	Qian_Qichen	1	0
+Bernard_Lord	2	1	Cheryl_Tiegs	1	1
+Bernardo_Segura	2	1	Mike_Bair	1	0
+Bernardo_Segura	2	1	Park_Jung_Sung	1	1
+Bernardo_Segura	2	0	Ray_Romano	9	1
+Bettina_Rheims	1	0	Stephen_Covey	1	1
+Betty_Garrison	1	1	Rudy_Tomjanovich	1	1
+Bijan_Namdar_Zangeneh	2	1	Inam-ul-Haq	1	1
+Bill_Belichick	1	0	Guillermo_Coria	25	1
+Bill_Bradley	1	1	Santiago_Botero	1	1
+Bill_Callahan	2	1	Richard_Tubb	1	0
+Bill_Duffey	1	1	Catriona_Le_May_Doan	1	1
+Bill_Kong	1	0	Herta_Daeubler-Gmelin	2	0
+Bill_Lerach	1	1	Lucio_Angulo	1	1
+Bill_Nelson	2	0	Buck_Rodgers	1	0
+Bill_Nelson	2	1	Roberto_Tovar	1	0
+Bill_OReilly	1	0	Kathryn_Bigelow	1	0
+Bill_Parcells	2	0	Jong_Wook_Lee	4	1
+Bill_Pryor	1	1	Wes_Craven	1	0
+Bill_Rainer	1	1	David_Ballantyne	1	0
+Bill_Rainer	1	0	Patricia_Clarkson	4	0
+Bill_Readdy	1	0	Kirk_Doerger	1	1
+Bill_Richardson	1	0	Roger_Grimes	1	0
+Bill_Stein	1	0	Chip_Burrus	1	1
+Bill_Walton	1	0	Gary_Marshall	1	1
+Billy_Bob_Thornton	1	0	Oscar_DLeon	1	0
+Billy_Crystal	4	1	Shafal_Mosed	1	1
+Billy_Graham	2	0	Jean_Nagel	1	1
+Billy_Joel	1	0	Edwina_Currie	3	1
+Billy_Joel	1	0	Lloyd_Richards	1	1
+Binyamin_Ben-Eliezer	6	0	Vicki_Zhao_Wei	1	0
+Bison_Dele	1	0	John_Stockton	4	1
+Blythe_Hartley	2	0	Masahiko_Nagasawa	1	0
+Bob_Alper	1	1	Chris_Reitsma	1	1
+Bob_Alper	1	1	Tony_Curtis	2	0
+Bob_Beauprez	1	0	Patsy_Mink	1	0
+Bob_Bowlsby	1	0	Tyler_Grillo	1	0
+Bob_Curtis	1	0	Hans_Blix	27	0
+Bob_Ferguson	1	0	Jean-Francois_Pontal	1	1
+Bob_Geldof	1	1	John_Spencer	2	0
+Bob_Graham	6	1	Mary_Tyler_Moore	2	0
+Bob_Krueger	1	0	Carlos_Alberto_Parreira	1	0
+Bob_Melvin	1	0	Eileen_Coparropa	2	0
+Bob_Stoops	2	0	David_Siegel	1	1
+Bob_Stoops	4	0	Yoelbi_Quesada	1	1
+Bob_Wright	1	0	Eriko_Tamura	1	0
+Bob_Wright	1	0	Margaret_Thatcher	1	1
+Bobby_Kielty	1	0	Keith_Rodriguez	1	0
+Bobby_Kielty	1	0	Mark_Salter	1	0
+Boris_Becker	2	0	Jason_Gardner	1	1
+Boris_Berezovsky	1	1	David_Nalbandian	13	0
+Boris_Henry	1	1	Richard_Branson	2	1
+Boris_Henry	1	1	Venus_Williams	4	0
+Brad_Brownell	1	1	Cindy_Moll	1	1
+Brad_Gushue	1	0	Patricia_Wartusch	1	1
+Brad_Johnson	3	1	Diana_Munz	2	0
+Brandon_Hammond	1	1	Kurt_Thomas	1	1
+Brandon_Inge	1	0	Jose_Lopez_Beltran	1	0
+Brandon_Inge	1	1	Mike_Szymanczyk	1	1
+Brendan_Hansen	1	0	Jim_Wong	1	1
+Brendan_Stai	1	1	Justin_Marshall	1	1
+Brennon_Leighton	1	0	Terry_Gilliam	1	0
+Brent_Coles	1	1	Francois_Botha	1	1
+Brett_Hull	1	1	Geoffrey_Rush	1	0
+Brian_Grazier	1	1	Huang_Suey-Sheng	1	1
+Brian_Grazier	1	1	Nate_Huffman	1	0
+Brian_Grazier	1	1	Robbie_Williams	1	0
+Brian_Gregory	1	0	Jimmy_Lee	1	1
+Brian_Mulroney	2	0	Yogi_Berra	1	0
+Brian_Pavlich	1	0	Marc-Andre_Fleury	2	0
+Brian_Pavlich	1	1	Scott_Sullivan	1	0
+Brian_Schneider	1	1	Tex_Ritter	1	1
+Brian_Van_Dusen	1	1	Sergio_Garcia	1	1
+Brittany_Snow	1	1	Jim_Bunning	1	0
+Brook_Robinson	1	1	Paul_Farley	1	0
+Brook_Robinson	1	1	Wan_Yanhai	1	0
+Brooke_Gordon	1	0	Hushiar_Zebari	1	0
+Brooke_Gordon	1	1	Lucia_Kenny_Anthony	1	0
+Bruce_Arena	1	0	Robert_Wiener	1	1
+Bruce_Springsteen	2	0	Shamai_Leibowitz	1	1
+Bruce_Van_De_Velde	1	0	Greg_Owen	1	0
+Bruno_Junquiera	1	0	Edgar_Savisaar	1	0
+Bryant_Young	1	0	Lisa_Stone	1	1
+Buck_Rodgers	1	0	Paul_ONeill	9	0
+Budd_Schulberg	1	0	Michelle_Lecky	1	0
+Bulent_Ecevit	1	0	Lee_Yuan-tseh	1	0
+Buzz_Hargrove	1	1	Jonathan_Schroeder	1	0
+Buzz_Hargrove	1	1	Keith_Olbermann	1	0
+Buzz_Hargrove	1	0	Tom_Crean	5	1
+Cabas	1	0	John_Dallager	1	1
+Cabas	1	1	Nicole_Kidman	7	0
+Caio_Blat	1	1	Paula_Radcliffe	3	0
+Caio_Blat	1	1	Teresa_Worbis	1	0
+Cameron_Diaz	1	1	Daniela_Cicarelli	1	1
+Cameron_Diaz	1	0	Kim_Dae-jung	3	1
+Camryn_Manheim	1	0	Simona_Hradil	1	1
+Carla_Gay_Balingit	1	1	Fernando_Henrique_Cardoso	5	1
+Carla_Myers	2	1	John_Henry	1	0
+Carla_Sullivan	1	1	Monique_Garbrecht-Enfeldt	2	1
+Carlos_Barra	1	0	Princess_Aiko	1	1
+Carlos_Fasciolo	1	1	David_Bowie	1	0
+Carlos_Fasciolo	1	1	Lisa_Gottsegen	2	1
+Carlos_Paternina	1	1	Jeff_Feldman	1	1
+Carlos_Queiroz	1	1	Pa_Kou_Hang	1	0
+Carlos_Ruiz	1	0	Kelvin_Sampson	2	0
+Carlos_Ruiz	1	0	Lincoln_Chafee	1	0
+Carlos_Ruiz	1	0	Phil_Mickelson	2	1
+Carlos_Salinas	1	0	Shaun_Rusling	1	1
+Carlos_Savedra	1	0	Chris_Neil	1	1
+Carlos_Vives	1	1	Piers_Sellers	1	1
+Carly_Fiorina	2	1	Khalid_Qazi	1	1
+Carolina_Barco	1	1	Maha_Habib	1	0
+Carolina_Kluft	1	0	William_Bratton	2	1
+Carolina_Moraes	2	1	Hushiar_Zebari	1	0
+Cassandra_Heise	1	0	Michael_Kors	1	1
+Cate_Blanchett	3	0	Jeanette_Stauffer	1	1
+Cathryn_Crawford	1	0	Kathryn_Grayson	1	1
+Catriona_Le_May_Doan	1	1	Kieran_Culkin	1	1
+Catriona_Le_May_Doan	1	1	Paul_Henderson	1	1
+Cecilia_Bolocco	1	1	Yann_Martel	2	1
+Cecilia_Bolocco	2	1	Giulietta_Masina	1	1
+Cesar_Gaviria	4	0	Sasha_Alexander	1	1
+Chadha_Gurinder	1	0	George_Ryan	2	0
+Chakib_Khelil	1	0	Nathan_Doudney	1	0
+Chan_Choi	1	0	Helmut_Panke	1	0
+Chan_Choi	1	0	Jayson_Williams	3	1
+Charles_Bell	1	1	James_Carville	1	0
+Charles_Chandler_IV	1	1	Rainer_Geulen	1	0
+Charles_Lebois	1	0	Yingfan_Wang	1	0
+Charles_Lebois	1	1	Zeng_Qinghong	1	1
+Charles_Mathews	1	0	Judy_Genshaft	1	0
+Charles_Moose	9	1	Sheryl_Crow	4	0
+Charlotte_Casiraghi	1	1	Irina_Framtsova	1	1
+Charlotte_Casiraghi	1	1	Jan_Pronk	1	0
+Charlotte_Casiraghi	1	0	Paddy_Long	1	1
+Chelsea_Clinton	1	0	Mohamed_Seineldin	1	0
+Chen_Kaige	1	1	Manfred_Reyes_Villa	1	0
+Chen_Tsai-chin	1	1	Tim_Welsh	1	1
+Cheryl_Hines	1	0	Hal_Gehman	3	0
+Cheryl_James	1	1	Cristiano_da_Matta	1	1
+Cheryl_James	1	1	Humberto_Coelho	1	1
+Chip_Ganassi	1	0	Lenny_Kravitz	1	0
+Chip_Knight	1	0	Tracy_McGrady	2	0
+Chris_Columbus	1	1	Patricia_Garone	1	1
+Chris_Cooper	1	0	Jason_Statham	1	1
+Chris_Cornell	1	1	Gary_Marshall	1	0
+Chris_Crocker	1	1	Zafarullah_Khan_Jamali	1	0
+Chris_Moore	1	0	Marsha_Sharp	1	0
+Chris_Neil	1	1	Tom_Reilly	2	1
+Christian_Bale	1	0	Nancy_Greenlaw	1	0
+Christian_Lacroix	1	0	Tom_OBrien	1	1
+Christian_Lirette	1	0	Taku_Yamasaki	1	0
+Christian_Malcolm	1	1	Pat_Rochester	1	1
+Christina_Aguilera	4	0	Fred_Huff	1	0
+Christoph_Daum	1	0	Mitchell_Crooks	1	1
+Christopher_Amolsch	1	1	Jen_Schefft	1	0
+Christopher_Conyers	1	1	Yu_Shyi-kun	3	1
+Christopher_Matero	1	0	Dita_Von_Tesse	1	1
+Chuck_Finley	1	0	John_Wright	1	1
+Chuck_Hagel	1	1	Hu_Jintao	1	0
+Chuck_Yeager	2	1	Jacqueline_Obradors	1	0
+Chuck_Yeager	2	1	Robert_Ehrlich	2	0
+Chung_Mong-hun	1	1	Ronald_Perelman	1	1
+Cindy_Klassen	1	0	Jayson_Williams	3	1
+Cindy_Margolis	1	0	Rachel_Wadsworth	1	1
+Cindy_Moll	1	0	Gregorio_Rosal	1	1
+Cindy_Moll	1	0	Randy_Jackson	1	1
+Cindy_Zagorski	1	0	Farouk_al-Sharaa	2	1
+Ciro_Gomes	4	1	Edgar_Savisaar	1	1
+Ciro_Gomes	4	1	JT_Snow	1	0
+Clara_Harris	1	0	Ekke_Hard_Forberg	1	1
+Claude_Jorda	1	1	Darko_Milicic	1	0
+Claudia_Schiffer	3	1	Marco_Antonio_Barrera	2	0
+Claudine_Farrell	1	0	Dave_McNally	1	1
+Clemente_de_la_Vega	1	0	Keith_Brown	1	0
+Cliff_Ellis	1	1	Paul_Luvera	1	0
+Clifford_Robinson	1	0	Tom_Schnackenberg	1	1
+Clive_Lloyd	1	0	Fujio_Cho	5	0
+Clive_Woodward	1	1	Yasar_Yakis	3	1
+Cole_Chapman	1	0	Randy_Jackson	1	0
+Colin_Cowie	1	1	Francisco_Urenda	1	0
+Colin_Farrell	7	0	Rudolph_Holton	1	1
+Colin_Jackson	2	0	Keiko_Sofia_Fujimori	1	1
+Colin_Phillips	1	1	Lenny_Kravitz	1	0
+Colleen_Atwood	1	0	Luis_Fonsi	1	1
+Colleen_Donovan	1	0	Wen_Jiabao	9	1
+Columba_Bush	1	1	Paul_Walker	1	0
+Conan_OBrien	2	1	Crispin_Glover	1	1
+Coretta_Scott_King	1	1	Tom_Welch	1	1
+Costas_Simitis	1	1	Richard_Perle	1	0
+Courtney_Cox	1	1	Kathryn_Grayson	1	0
+Courtney_Cox	1	1	Taha_Yassin_Ramadan	9	1
+Craig_Doblin	1	0	Monte_Kiffin	1	0
+Craig_OClair	1	1	Eddie_Jordan	1	1
+Craig_Wilson	1	1	Warren_Granados	1	0
+Cristian_Barros	1	0	John_Lisowski	1	1
+Cristian_Barros	1	1	Miranda_Otto	1	0
+Cristian_Barros	1	0	Paul_William_Hurley	1	1
+Cristian_Barros	1	1	Saied_Hadi_al_Mudarissi	1	1
+Cristiano_da_Matta	1	1	Jason_Priestley	1	0
+Cuba_Gooding_Jr	1	0	Lee_Byung-woong	1	1
+Curtis_Rodriguez	1	1	Gary_Sinise	1	1
+Curtis_Rodriguez	1	1	Phil_Cline	1	0
+DAngelo_Jimenez	1	1	Wendy_Kennedy	1	1
+Daja_Bedanova	1	0	Dean_Barker	1	1
+Dale_Bosworth	1	0	Tyrone_Medley	1	0
+Dale_Earnhardt	1	1	Demi_Moore	1	0
+Dale_Earnhardt	1	0	Roy_Halladay	1	1
+Damon_van_Dam	1	1	Maria_Shkolnikova	1	0
+Dan_Bartlett	1	0	Tim_Robbins	2	1
+Dan_Boyle	1	1	Pete_Gillen	1	1
+Dan_Boyle	1	1	Zarai_Toledo	2	0
+Dan_Duquette	1	0	Juliette_Binoche	1	0
+Dan_Guerrero	1	1	Walter_Mondale	5	0
+Dan_LaCoutre	1	1	Hernan_Diaz	1	1
+Dan_LaCoutre	1	1	Michael_Jasny	1	1
+Dan_Quayle	1	0	David_McKiernan	1	1
+Dan_Quayle	1	1	Edina_Batar	1	1
+Dana_Vollmer	1	1	Frank_Griswold	2	0
+Daniel_Bruehl	1	0	Geovani_Lapentti	1	0
+Daniel_Day-Lewis	3	1	Jaromir_Jagr	1	1
+Daniel_Rouse	1	1	Talisa_Bratt	1	1
+Daniel_Rouse	1	1	Tono_Suratman	1	1
+Danny_Ainge	1	1	Sanjay_Gupta	1	1
+Darla_Moore	1	0	Hugh_Carey	1	0
+Darrell_Issa	1	0	Martin_Torrijos	1	1
+Darren_Clarke	1	0	William_Swor	1	0
+Dave_Matthews	1	0	Derek_Lowe	1	1
+Dave_Matthews	1	1	Ruben_Studdard	1	0
+Dave_Matthews	1	0	Suzanne_Torrance	1	0
+Dave_McNally	1	1	John_Daly_Jr	1	0
+Dave_Tucker	1	1	Scott_Peterson	2	1
+Dave_Williams	1	0	Dick_Posthumus	1	0
+Dave_Williams	1	0	Lin_Yung_Hsi	1	0
+Dave_Williams	1	0	Robin_McLaurin_Williams	2	1
+David_Anderson	4	0	Stephanie_Moore	1	1
+David_Anderson	5	1	Sharess_Harrell	1	1
+David_Ballantyne	1	1	Job_Cohen	1	0
+David_Bowie	1	1	Gloria_Allred	1	1
+David_Dewhurst	1	1	Leah_Remini	1	1
+David_Dodge	2	0	Jerry_Tarkanian	1	1
+David_Duke	1	0	Micky_Arison	1	0
+David_Duke	1	0	Yoon_Won-Sik	1	1
+David_Gest	1	1	Hikmat_al-Azzawi	1	1
+David_Heymann	3	0	Richard_Sterner	1	1
+David_Hilt	1	1	Emma_Thompson	2	0
+David_Hilt	1	0	Shawn_Bradley	1	1
+David_Myers	2	0	Kenny_Brack	1	0
+David_Przybyszewski	1	0	John_McCain	6	0
+David_Sibleyk	1	1	Mikhail_Khodorkovsky	1	1
+David_Siegel	1	0	Timothy_Rigas	1	0
+David_Spade	1	0	Evander_Holyfield	1	1
+David_Suazo	1	0	Liliana_Cavani	1	0
+David_Suazo	1	0	Mesut_Yilmaz	1	1
+David_Wells	7	1	Stefaan_Declerk	1	0
+Dean_Barkley	4	0	Mohamed_Benaissa	2	1
+Deb_Santos	1	1	Rodney_Rempt	1	0
+Debbie_Reynolds	3	1	Kristin_Scott_Thomas	1	0
+Debra_Yang	1	0	Morgan_Fairchild	1	0
+Demetrius_Ferraciu	2	0	Mario_Austin	1	0
+Denis_Fassou-Nguesso	1	1	Luiz_Felipe_Scolari	2	0
+Denis_Fassou-Nguesso	1	1	Tim_Floyd	2	0
+Deniz_Baykal	1	0	Martin_Hoellwarth	1	0
+Dennis_Erickson	2	1	Tom_Craddick	1	1
+Dennis_Kucinich	6	0	Terry_Hoeppner	1	0
+Dennis_Oswald	1	1	Shamai_Leibowitz	1	1
+Dereck_Whittenburg	1	0	Miranda_Otto	1	0
+Derek_Bond	1	0	Stacy_Dragila	2	1
+Derrick_Rodgers	1	1	Evo_Morales	1	0
+Derrick_Rodgers	1	0	Young_Kim	1	0
+Diana_Krall	1	0	Mark_Salter	1	0
+Diana_Krall	3	1	Thomas_Wyman	2	1
+Diana_Munz	3	1	Geno_Auriemma	1	0
+Diana_Silvius	1	0	Robert_Pollack	1	0
+Diana_Taurasi	2	1	Steven_Seagal	2	0
+Dianne_Feinstein	1	1	Dolly_Parton	1	0
+Dick_Bennett	1	1	Mary-Kate_Olsen	3	1
+Dick_Bennett	1	1	Mike_Farrar	1	0
+Dick_Smothers	1	1	John_Cornyn	1	0
+Dick_Smothers	1	0	Lesley_Flood	1	0
+Didier_Defago	1	1	Rani_Mukherjee	1	0
+Diego_Armando_Maradona	1	1	Lee_Chang-dong	1	0
+Dimitar_Berbatov	1	1	Naomi_Bronstein	1	1
+Dinah_Turner	1	0	Gerald_Ford	1	0
+Dinah_Turner	1	1	Mary_Catherine_Correll	1	1
+Dita_Von_Tesse	1	0	Olesya_Bonabarenko	2	1
+Djabir_Said-Guerni	1	0	Marty_Mornhinweg	3	0
+Doc_Rivers	1	0	Malcolm_Glazer	1	0
+Dolly_Parton	1	1	Miguel_Juarez_Perez	1	0
+Don_Hewitt	1	0	Mike_Webster	1	0
+Donald_Hays	1	0	Jennifer_Gratz	1	1
+Donald_Hays	1	0	Marcio_de_Souza	1	0
+Donald_Hays	1	1	Roger_Moore	3	1
+Donna_Ralston	1	0	Lee_Nam-shin	1	0
+Donnie_Brennan	1	1	Javier_Solana	9	0
+Donnie_Brennan	1	1	Lesley_McCulloch	3	1
+Donny_Osmond	1	1	Emilio_Azcarraga_Jean	1	0
+Donny_Osmond	1	0	Heather_Locklear	1	0
+Doris_Roberts	2	0	Tommy_Lewis	1	0
+Dorothy_Lamour	1	1	Omar_Sharif	4	0
+Doug_Christie	1	0	Richard_Jefferson	1	1
+Doug_Wilson	1	1	Lee_Chang-dong	1	1
+Drew_Bledsoe	1	1	Jackie_Sherrill	1	1
+Duncan_Fletcher	1	1	Nikki_McKibbin	1	0
+Dustin_Brown	1	1	Wu_Yi	2	0
+Dyab_Abou_Jahjah	1	1	Tim_Curley	1	1
+Earl_Campbell	1	0	Marco_Antonio_Barrera	3	1
+Ed_Book	1	1	Mike_Alden	1	0
+Ed_Rendell	1	1	Larenz_Tate	1	0
+Ed_Smart	3	0	William_Shatner	1	1
+Ed_Smart	3	0	Zaini_Abdullah	1	1
+Eddie_Compass	1	0	Jean_Brumley	1	1
+Eddie_Fenech_Adami	1	0	Elodie_Bouchez	1	0
+Eddie_Lewis	1	1	Richard_Fine	1	0
+Eddie_Murray	1	0	Elva_Hsiao	1	0
+Edmund_Stoiber	5	1	Kenneth_Carlsen	1	1
+Eduard_Shevardnadze	4	0	Taoufik_Mathlouthi	1	1
+Eduardo_Chillida	1	0	Luther_Htu	1	1
+Eduardo_Romero	1	0	Jerry_Colangelo	1	1
+Edward_Burns	1	1	Lee_Ann_Womack	1	0
+Edward_Lohn	1	1	Shingo_Suetsugu	1	0
+Edward_Said	2	0	Gillian_Anderson	1	1
+Eglis_Yaima_Cruz	1	1	Namuddu_Florence	1	1
+Eglis_Yaima_Cruz	1	1	Steve_Spurrier	2	0
+Eileen_Coparropa	1	1	John_Warner	4	1
+Eileen_Coparropa	1	1	Sadie_Frost	3	0
+Eileen_Spina	1	0	Jason_Statham	1	1
+Ekke_Hard_Forberg	1	0	Kevin_Sorbo	1	1
+Elena_Bereznaya	1	1	Queen_Beatrix	3	0
+Eli_Stutsman	1	0	Gerald_Fitch	1	0
+Elijan_Ingram	1	1	Thomas_Wilkens	1	0
+Elijan_Ingram	1	0	Yang_Hee_Kim	1	0
+Elizabeth_Taylor	1	0	Nancy_Kerrigan	1	0
+Elizabeth_Taylor	1	0	Shimon_Peres	3	1
+Ellen_DeGeneres	1	0	Fernando_Sanz	1	1
+Ellen_DeGeneres	2	0	Kevin_Keegan	1	1
+Ellen_DeGeneres	2	1	Richard_Sambrook	2	0
+Ellen_Engleman	1	0	Hassanal_Bolkiah	1	0
+Elodie_Bouchez	1	0	Enrique_Oliu	1	1
+Elodie_Bouchez	1	1	Robert_Mugabe	2	1
+Elton_John	3	1	Jason_Jennings	2	0
+Elva_Hsiao	1	1	Michael_Deutsch	1	1
+Emanuel_Ginobili	1	1	Norm_Macdonald	1	0
+Emanuel_Ginobili	5	0	Ray_Halbritter	1	1
+Emile_Lahoud	2	1	Ricky_Martin	1	0
+Emily_Mortimer	1	1	Imelda_Marcos	1	0
+Emily_Robison	2	0	Penelope_Taylor	1	0
+Emmanuel_Milingo	1	1	Shane_Loux	1	0
+Emmanuelle_Jagodsinski	1	1	Zara_Akhmadova	1	0
+Emmit_Smith	1	1	Francisco_Santos	1	1
+Emmit_Smith	2	1	Namuddu_Florence	1	0
+Emmy_Rossum	1	1	Samantha_Ledster	1	0
+Enola_Rice	1	1	Jose_Theodore	1	1
+Enrique_Iglesias	1	1	Marion_Fahnestock	1	1
+Enrique_Medina_Gomez	1	1	William_Cocksedge	1	0
+Eric_Christian_Olsen	1	0	Lisa_Gottsegen	2	0
+Eric_Lloyd	1	1	Mark_Gottfried	3	1
+Eric_Robert_Rudolph	1	0	Gregg_Berhalter	1	0
+Eric_Robert_Rudolph	1	1	Philippe_Gagnon	1	1
+Eric_Taino	1	0	Igor_Ivanov	9	0
+Erika_Harold	4	0	Sepp_Blatter	1	1
+Erin_Brockovich	1	0	Takahiro_Mori	1	1
+Ernest_Hollings	1	1	Steve_Backley	1	0
+Ernie_Els	1	0	Octavio_Lara	1	0
+Ernie_Grunfeld	1	1	Steven_Kinlock	1	1
+Ernie_Harwell	1	1	Nora_Ephron	1	1
+Ernie_Preate	1	1	Farouk_al-Sharaa	1	0
+Ernie_Stewart	1	1	Mohammed_Mehdi_Saleh	1	1
+Erskine_Bowles	1	1	Joe_Lieberman	11	1
+Estella_Warren	1	0	Peter_Mugyeni	1	1
+Fabrice_Santoro	3	0	Jennifer_Lopez	9	1
+Faisal_Iqbal	1	1	Manfred_Stolpe	1	0
+Faisal_Saleh_Hayat	1	1	Keira_Knightley	2	0
+Farida_Ragoonanan	1	1	Lionel_Richie	2	1
+Federico_Castelan_Sayre	1	0	Roger_Federer	3	1
+Feliciano_Lopez	1	0	Lynne_Cheney	1	1
+Felix_Mantilla	1	0	Lord_Hutton	1	1
+Fernando_Alonso	1	0	Mahendra_Chaudhry	1	0
+Fernando_Hierro	1	1	Julio_Rossi	1	1
+Fernando_Hierro	1	0	Richard_Naughton	1	1
+Fernando_Sanz	1	0	Sonia_Gandhi	2	1
+Fernando_Sanz	1	0	Ted_Turner	1	0
+Fernando_Valenzuela	1	1	Mitt_Romney	1	1
+Fernando_Velardez	1	0	Nicolas_Cage	2	1
+Florencia_Kirchner	1	1	Marat_Safin	2	1
+Francis_George	1	1	Massoud_Barzani	1	0
+Francis_Mer	1	0	Perri_Shaw	1	1
+Francisco_Santos	1	1	Jan_Bjoerklund	1	0
+Franck_Cerutti	1	0	Katrin_Cartlidge	1	0
+Franck_Cerutti	1	0	Sheldon_Silver	1	1
+Frank_Coraci	1	1	Julius_Barnes	1	1
+Frank_Griswold	1	0	Martina_McBride	2	0
+Frank_Hilldrup	1	0	Nathalie_Baye	2	1
+Frank_Shea	1	0	Mercedes_Amor	1	1
+Franko_Simatovic	1	1	Jonathan_Karsh	1	0
+Fred_Eckhard	2	0	Tab_Turner	1	1
+Fred_Thompson	2	1	Zeng_Qinghong	1	0
+Freda_Black	1	1	Patricia_Clarkson	3	0
+Frederique_van_der_Wal	1	1	Scott_Wallach	1	1
+Fujio_Cho	1	0	Meles_Zenawi	1	1
+Fujio_Cho	4	0	Shaun_Pollock	1	0
+Gabi_Zimmer	1	0	John_Lisowski	1	1
+Gabriel_Hughes	1	0	Rod_Bryden	1	0
+Gael_Garcia_Bermal	1	1	Tyrone_Medley	1	0
+Garry_Alejano	1	0	Yasser_Arafat	8	1
+Gary_Bald	1	0	Jason_Sorens	1	0
+Gary_Barnett	1	1	Sophie	1	1
+Gary_Coleman	1	1	Michael_Powell	5	0
+Gary_Condit	1	1	Peter_Medgyessy	1	0
+Gary_Gitnick	1	0	Kong_Quan	1	1
+Gene_Hackman	1	1	Willis_Roberts	1	0
+Gennifer_Flowers	1	1	George_Bovell	1	1
+Gennifer_Flowers	1	1	Ralph_Lauren	2	0
+Geoffrey_Rush	1	1	Li_Changchun	1	1
+George_Allen	1	1	Pedro_Duque	1	0
+George_Gregan	1	0	James_Gandolfini	3	0
+George_HW_Bush	3	0	Kelly_Osbourne	1	1
+George_HW_Bush	9	0	John_Lisowski	1	0
+George_Pataki	2	0	Hideki_Matsui	2	0
+George_Ryan	4	0	Mitzi_Gaynor	1	1
+George_W_Bush	353	1	Pupi_Avati	1	0
+George_W_Bush	407	1	Rachel_Kempson	1	0
+Georgina_Bardach	1	0	Phil_Vassar	2	0
+Geraldo_Rivera	1	0	Jennifer_Aniston	13	1
+Gerard_Butler	1	1	Pascal_Rheaume	1	1
+Gerard_Depardieu	1	1	Harrison_Ford	7	0
+Gerardo_Gambala	2	1	Joey_Mantia	1	1
+Gerhard_Schmid	1	0	Noel_Niell	1	1
+Gerry_Parsky	2	1	Teresa_Heinz_Kerry	1	1
+Gian_Marco	2	1	Michael_Munoz	1	1
+Gianna_Angelopoulos-Daskalaki	1	1	Rita_Wilson	3	1
+Gilberto_Simoni	1	1	Raquel_Welch	2	1
+Gilberto_Simoni	1	1	Razali_Ismail	1	1
+Gilles_Panizzi	1	1	Martha_Lucia_Ramirez	4	0
+Gilles_Panizzi	1	0	Shafal_Mosed	1	1
+Gina_Torres	1	1	Qazi_Afzal	1	1
+Gisele_Bundchen	1	1	Suzanne_Gaudet	1	0
+Giulietta_Masina	1	0	Hunter_Kemper	1	1
+Giulietta_Masina	1	0	Saied_Hadi_al_Mudarissi	1	1
+Glenn_Plummer	1	0	Sandra_Banning	1	1
+Gloria_Macapagal_Arroyo	34	1	Takaloo	1	0
+Gloria_Trevi	1	0	Mickey_Rooney	1	1
+Gong_Ruina	1	0	Prince_Charles	5	0
+Gonzalo_Barrientos	1	0	Lionel_Hampton	1	0
+Goran_Persson	1	0	Vernon_Forrest	1	0
+Gordana_Grubin	1	0	Scott_Verplank	1	1
+Gordana_Grubin	1	1	Sylvester_Stallone	6	1
+Gordon_Cooper	1	0	Mark_Hamister	1	0
+Grady_Irvin_Jr	1	1	Mitchell_Crooks	1	1
+Grady_Little	1	1	Guido_Westerwelle	1	1
+Graeme_Smith	1	1	Silvia_Farina_Elia	2	0
+Graham_Bentley	1	1	Monica_Seles	4	0
+Greg_Rusedski	4	1	Yoko_Ono	4	1
+Gregg_Berhalter	1	1	Juan_Manuel_Marquez	1	1
+Gregg_Popovich	4	0	Mario_Lobo_Zagallo	1	0
+Gro_Harlem_Brundtland	2	1	Ted_Christopher	1	0
+Guennadi_Chipouline	1	1	Maurice_Strong	1	1
+Guido_Westerwelle	2	0	Tatiana_Paus	1	1
+Guillermo_Canas	4	0	John_Paul_II	10	0
+Gustavo_Terrazas	1	1	John_Starks	1	1
+Guus_Hiddink	1	1	Janet_Napolitano	3	1
+Guy_Hemmings	2	0	Ryan_Goodman	1	1
+Gwen_Stefani	1	1	Marcus_Garrettson	1	0
+Habib_Rizieq	1	1	Silvie_Cabero	1	1
+Habib_Rizieq	4	0	Zhong_Nanshan	1	1
+Hadley_Bilger	1	1	Jaime_Orti	1	0
+Hadley_Bilger	1	1	Kathleen_Glynn	1	1
+Hal_Sellers	1	0	Imad_Khadduri	1	1
+Hal_Sellers	1	0	Leuris_Pupo	1	1
+Halle_Berry	14	0	Mike_Holmgren	1	0
+Hamad_Bin_Jassim	1	1	Yukio_Hatoyama	1	1
+Hamid_Efendi	1	1	Valentina_Tereshkova	1	1
+Hamid_Efendi	1	1	Wolfgang_Schuessel	4	1
+Han_Sung_Joo	1	1	Hank_Azaria	1	1
+Hank_Stram	1	1	Quin_Snyder	1	1
+Hank_Stram	1	1	Rudolph_Holton	1	0
+Hans-Christian_Schmid	1	0	Zaini_Abdullah	1	1
+Hans_Blix	22	0	Saeed_Mortazavi	1	0
+Harriet_Lessy	1	1	Petria_Thomas	3	1
+Hasan_Wirayuda	1	1	Monique_Gagnon-Tremblay	1	0
+Hatsui_Hasuike	1	1	Kim_Dae-jung	4	0
+Heather_Locklear	1	0	Landon_Donovan	1	1
+Heather_Locklear	1	1	Michelle_Hofland	1	1
+Heather_Willson	1	1	Jeanette_Stauffer	1	1
+Hector_Babenco	2	0	Mark_Salter	1	0
+Hector_Grullon	1	1	Nicolas_Cage	4	1
+Hedayat_Amin_Arsala	1	0	Ray_Lucas	1	1
+Heinrich_Wolfgang	1	0	Mike_Fisher	1	0
+Helen_Alvare	1	1	Pablo_Khulental	1	0
+Helo_Pinheiro	1	1	Rien_Long	1	1
+Henk_Bekedam	1	0	Jorge_Alberto_Galindo	1	1
+Henry_Hyde	1	0	James_May	1	0
+Herb_Ritts	1	1	Larry_Johnson	1	0
+Herb_Sendek	3	0	Hillary_Clinton	3	0
+Herman_Edwards	1	1	Sean_Hayes	2	0
+Hermes_Gamonal	1	0	Jason_Biggs	1	0
+Hermes_Gamonal	1	1	Sue_Wicks	1	1
+Hillary_Clinton	2	0	Zydrunas_Ilgauskas	1	0
+Hilmi_Ozkok	2	0	Johnny_Benson	1	1
+Hiroki_Gomi	1	0	Steve_Karsay	1	0
+Hisham_Halawi	1	0	Lonnie_Donegan	1	0
+Hitoshi_Tanaka	1	0	Leo_Mullin	1	1
+Holly_Robinson_Peete	1	1	Robert_Schuller	1	0
+Hong_Myung	1	1	Roy_Chaderton	1	0
+Howard_Stringer	1	0	Princess_Elisabeth	2	0
+Hugh_Carey	1	0	Oprah_Winfrey	4	0
+Hung_Wan-ting	1	0	Intisar_Ajouri	1	1
+Hushiar_Zebari	1	0	Morgan_Fairchild	1	1
+Hushiar_Zebari	1	0	Osrat_Iosef	1	1
+Hussein_Malik	1	1	Kurt_Russell	1	0
+Iain_Anderson	1	1	Troy_Garity	1	0
+Iain_Duncan_Smith	2	1	Ted_Maher	2	1
+Ian_Wilmut	1	1	Randall_Tobias	1	0
+Ibrahim_Hilal	1	1	Kathy_Baker	1	1
+Ibrahim_Jaafari	1	1	Tom_Brennan	1	1
+Ibrahim_Rugova	1	1	Juan_Manuel_Marquez	1	0
+Ignacio_Antonio_Velasco	1	0	Lionel_Richie	2	1
+Igor_Trunov	1	0	Steve_Avery	1	1
+Igor_Trunov	1	0	Vladimir_Voltchkov	2	0
+Inga_Hall	1	1	Jorge_Alberto_Galindo	1	1
+Inga_Hall	1	1	Richard_Tubb	1	0
+Ira_Einhorn	1	1	William_Shatner	1	0
+Irwan_Fadzi_Idris	1	1	Kathy_Bates	1	1
+Irwan_Fadzi_Idris	1	0	Ted_Maher	2	1
+Ismael_Miranda	1	0	John_Malkovich	1	1
+Ismael_Miranda	1	1	Mohamed_Hammam	1	0
+Jack_LaLanne	1	1	Zafarullah_Khan_Jamali	2	1
+Jack_Straw	6	1	John_Rosa	2	0
+Jack_Valenti	1	0	Jaouad_Gharib	1	1
+Jackie_Sherrill	1	0	John_Norquist	1	0
+Jacob_Frenkel	1	0	Joseph_Hoy	1	1
+Jacob_Frenkel	1	0	Matthew_Ouimet	1	1
+Jacques_Kallis	1	1	Robert_Towne	1	0
+Jada_Pinkett_Smith	1	0	Mercedes_Amor	1	0
+Jade_Jagger	1	0	Marisol_Breton	1	1
+Jafar_Umar_Thalib	1	0	John_Rigas	1	1
+Jafar_Umar_Thalib	1	0	Juan_Valencia_Osorio	1	0
+Jakob_Kellenberger	1	0	Kiki_Vandeweghe	1	0
+Jakob_Kellenberger	1	0	Riccardo_Muti	1	0
+James_Baker	1	0	Piers_Sellers	1	1
+James_Ballenger	1	0	Norah_Jones	5	0
+James_Barksdale	1	0	Jose_Miguel_Aleman	1	1
+James_Barksdale	1	1	Tom_DeLay	1	1
+James_Collinson	1	0	Jim_Nochols	1	0
+James_Cunningham	2	1	Martin_Kristof	1	1
+James_Hakett	1	1	Leandro_Garcia	1	1
+James_Hill	1	0	Natasha_McElhone	1	1
+James_Jones	2	1	Patrick_Clawsen	1	1
+James_May	1	1	Toutai_Kefu	1	1
+James_McPherson	1	1	Ralph_Klein	2	0
+James_Roberts	1	0	Olesya_Bonabarenko	2	0
+James_Robertson_Jr	1	1	Justin_Wilson	1	1
+James_Spalding	1	1	Saeed_Mortazavi	1	1
+James_W_Kennedy	1	0	Joan_Collins	1	1
+Jan_Petersen	1	1	Tom_Miller	1	1
+Jane_Fonda	1	0	Marco_Antonio_Barrera	6	0
+Jane_Riley	1	1	Paul_Walker	1	1
+Jane_Russell	1	0	Lara_Logan	1	1
+Jane_Russell	1	0	Svend_Robinson	1	1
+Jane_Walker_Wood	1	1	Oswaldo_Paya	5	1
+Janette_Husarova	1	0	Phil_Donahue	1	0
+Jason_Bentley	1	1	Mark_Swartz	1	0
+Jason_Bentley	1	0	Steven_Kinlock	1	1
+Jason_Biggs	1	0	Rick_Barnes	2	0
+Jason_Vale	1	1	Richard_Cohen	1	1
+Jay_Leno	3	1	Pele	1	1
+Jean-Francois_Pontal	1	0	Stella_McCartney	1	1
+Jean-Rene_Fourtou	1	0	Shingo_Katayama	1	1
+Jean-Sebastien_Giguere	1	1	Joshua_Davey	1	1
+Jean-Sebastien_Giguere	2	1	Rhina_Villatoro	1	0
+Jean_Brumley	2	1	Pamela_Anderson	5	0
+Jeanette_Stauffer	1	0	Wang_Nan	1	1
+Jeff_Bzdelik	1	1	Tonino_Guerra	1	0
+Jeff_Bzdelik	1	1	Troy_Garity	1	1
+Jeff_Schiffner	1	1	Jim_Greenwood	1	0
+Jeff_Schiffner	1	0	Sanjay_Chawla	1	0
+Jeff_Van_Gundy	3	1	Kaspar_Villiger	1	0
+Jeff_Weaver	1	0	Luciano_Bovicelli	1	0
+Jeff_Weaver	1	1	Natasha_Lyonne	1	1
+Jeffery_Strelzin	1	0	Ratna_Sari_Dewi_Sukarno	1	0
+Jeffrey_Archer	1	0	Kelly_Osbourne	1	1
+Jeffrey_Archer	2	1	Yusuf_Misbac	1	1
+Jeffrey_Donaldson	1	1	Joe_Metz	1	0
+Jeffrey_Donaldson	1	1	Nora_Ephron	1	0
+Jeffrey_Jones	1	1	John_Bond	1	0
+Jeffrey_Scott_Postell	1	1	Linda_Baboolal	1	1
+Jelena_Dokic	2	0	Ralph_Fiennes	1	1
+Jennifer_Garner	2	0	Thad_Matta	1	1
+Jennifer_Lopez	3	1	Johnny_Benson	1	0
+Jennifer_Reilly	1	1	Ronald_Reagan	2	1
+Jeremy_Fogel	1	1	Sharon_Frey	1	0
+Jeremy_Gompertz	1	0	Sharon_Frey	2	0
+Jerry_Lewis	1	1	Takashi_Sorimachi	1	0
+Jerry_Sloan	1	0	Kimberly_Stewart	1	1
+Jesse_Helms	1	1	Steve_Largent	1	0
+Jesse_James_Leija	1	1	Melissa_Stark	1	0
+Jessica_Alba	2	0	Zico	2	1
+Jessica_Brungo	1	1	LeAnn_Rimes	1	1
+Jesus_Cardenal	1	0	Ruben_Studdard	1	1
+Jia_Qinglin	1	1	Marcelo_Salas	2	0
+Jim_Bollman	1	0	Timothy_Coughlin	1	0
+Jim_Fassel	1	0	Mark_Hamister	1	1
+Jim_Hardin	1	1	Peter_Chan	1	0
+Jim_Ryan	1	0	Roger_Staubach	1	0
+Jim_Taylor	1	1	Ralph_Nader	1	0
+Jim_Taylor	1	1	Thanongsak_Tuvinan	1	1
+Jim_Thome	1	1	Kevin_Keegan	1	1
+Jim_Thome	1	1	Roger_King	1	0
+Jim_Wall	1	0	Mary_Blige	1	0
+Jimmy_Jimenez	1	0	Juan_Francisco_Palencia	1	0
+Jimmy_Lee	1	0	Steve_McManaman	1	1
+Jimmy_Smits	1	1	Peter_Harvey	1	0
+Jo_Dee_Messina	1	1	Jon_Stewart	1	1
+Joan_Collins	1	0	Joe_Calzaghe	2	0
+Joan_Dangerfield	1	1	John_Richardson	1	0
+Joanne_Woodward	1	0	Pedro_Duque	1	1
+Joe_Calzaghe	2	1	Joerg_Haider	2	1
+Joe_Carnahan	1	1	Mary_Catherine_Correll	1	1
+Joe_Cravens	1	0	Jose_Lopez_Beltran	1	0
+Joe_Darrell	1	0	Liu_Xiaoqing	1	1
+Joe_Mendes	1	1	Joy_Bryant	1	1
+Joe_Mendes	1	0	Micky_Ward	1	1
+Joel_Gallen	1	1	Martin_Scorsese	1	1
+Joel_Todd	1	0	Pascal_Lamy	1	0
+Joey_Mantia	1	0	Mitar_Rasevic	1	1
+John_Anderson	1	0	Katerina_Smrzova	1	1
+John_Anderson	1	0	Thomas_Weston	1	1
+John_Brady	1	1	Tom_Brady	1	1
+John_Leguizamo	1	0	Katie_Harman	1	1
+John_Leguizamo	1	1	Mel_Gibson	1	1
+John_Leguizamo	1	0	Victoria_Clarke	5	0
+John_Lithgow	1	0	Manuel_Llorente	1	0
+John_McKay	1	0	Kurt_Schottenheimer	1	1
+John_Perrota	1	0	Olene_Walker	1	1
+John_Petty	1	0	Stephen_Frears	1	0
+John_Philip_Elkann	1	0	Ray_Morrough	1	0
+John_Reilly	1	0	Jose_Canseco	2	0
+John_Reilly	1	0	Ricky_Martin	1	0
+John_Reilly	1	0	Yossi_Beilin	1	0
+John_Starks	1	0	Kenenisa_Bekele	1	0
+John_Sweeney	1	0	Lee_Tae-sik	2	1
+John_Sweeney	1	0	Ronald_Ito	1	0
+John_Swofford	3	0	Lindsay_Benko	2	1
+John_Taylor	2	1	Sepp_Blatter	3	1
+John_Thune	1	1	Mary-Kate_Olsen	3	1
+John_White	1	1	Mikhail_Shvydkoi	1	1
+John_Wright	1	0	Rafeeuddin_Ahmed	1	0
+Johnny_Htu	1	1	Victor_Kraatz	1	0
+Jonathan_Karsh	1	0	Mahmoud_Diyab_al-Ahmed	1	0
+Jorge_Alberto_Galindo	1	1	Omar_Sharif	2	0
+Jose_Acasuso	1	0	Lin_Yung_Hsi	1	0
+Jose_Maria_Aznar	18	0	Svend_Robinson	1	0
+Jose_Rosado	1	0	Ramon_Cardenas	1	1
+Jose_Rosado	1	0	Tayshaun_Prince	1	0
+Jose_Rosado	1	1	Ted_Maher	1	1
+Jose_Serra	5	1	Wally_Szczerbiak	1	0
+Jose_Woldenberg	1	1	Yashwant_Sinha	5	0
+Joseph_Biden	5	1	Stephanie_Moore	1	0
+Joseph_Hoy	1	1	Mark_Schweiker	2	1
+Joseph_Kabila	1	1	Tabare_Vazquez	1	0
+Joseph_Nacchio	1	1	Nikki_McKibbin	1	0
+Joseph_Ralston	1	1	Shia_LaBeouf	2	1
+Josh_Evans	1	1	Sok_An	1	1
+Joy_Lee_Sadler	1	1	Richard_Palmer	1	0
+Juan_Carlos_Ferrero	23	1	Sean_Hayes	2	0
+Juan_Fernandez	1	0	Nancy_Humbert	1	0
+Juan_Jose_Lucas	1	1	Nathalia_Gillot	1	0
+Judy_Genshaft	1	1	Randy_Ferbey	1	1
+Julian_Fantino	1	1	Paola_Espinoza	1	0
+Julie_Infante	1	0	Mike_Easley	1	0
+Juliette_Binoche	1	0	Venus_Williams	1	0
+Julio_Cesar_Franco	1	1	Michael_Bolton	1	0
+Julio_Iglesias_Jr	1	0	Justin_Marshall	1	1
+Julius_Erving	1	0	Nanni_Moretti	2	0
+Justin_Marshall	1	1	Queen_Sofia	1	1
+Justin_Wilson	1	1	Pamela_Melroy	1	1
+Justine_Pasek	5	1	Michael_Rolinee	1	0
+Kaio_Almeida	1	1	Richard_Haass	2	1
+Kaio_Almeida	1	1	Sven_Ottke	1	0
+Karen_Lynn_Gorney	1	1	Soon_Yi	1	1
+Karen_Pereiras	1	1	Peter_Arnett	2	1
+Kate_Burton	1	0	Vin_Diesel	2	1
+Kate_Winslet	1	0	Luis_Gonzalez	1	1
+Kathryn_Tucker	1	1	Mathilda_Karel_Spak	1	1
+Kathryn_Tucker	1	0	Tony_Fernandes	1	1
+Katie_Couric	1	0	Richard_Cohen	1	1
+Katie_Harman	3	1	Lin_Yung_Hsi	1	1
+Katrin_Susi	1	1	Leonard_Hamilton	1	1
+Kaye_Young	1	1	Ted_Williams	1	0
+Keanu_Reeves	2	1	Liu_Xiaoqing	1	0
+Keith_Bishop_Jr	1	0	Shaun_Pollock	1	1
+Keith_Bishop_Jr	1	1	Wendy_Kennedy	1	0
+Kellie_Coffey	1	0	Mark_Gangloff	1	0
+Kelly_Osbourne	1	1	Sim_Yong	1	1
+Ken_Dorsey	1	1	Mira_Sorvino	1	0
+Kent_McCord	1	1	Marion_Barry	1	1
+Kevin_Stallings	2	1	Zico	1	0
+Khin_Nyunt	1	1	Raoul_Ruiz	3	0
+Kim_Clijsters	6	1	Stephen_Ambrose	2	0
+Kimberly_Bruckner	1	1	Natasha_McElhone	2	0
+Kimberly_Bruckner	1	1	Ray_Lewis	1	1
+Kimberly_Stewart	1	0	Lee_Yeo-jin	1	0
+Kirk_Douglas	1	0	Troy_Garity	1	0
+Kirk_Johnson	1	1	Michelle_Hofland	1	1
+Kirk_Johnson	1	0	Uzi_Even	1	1
+Kostya_Tszyu	1	1	Pauline_Landers	1	0
+Kristen_Rivera	1	1	Mary_Robinson	1	1
+Kristin_Scott	1	0	Milt_Palacio	1	1
+Kwame_Kilpatrick	1	0	Ronnie_Musgrove	1	1
+Kwon_Yang-sook	3	1	Princess_Masako	2	0
+Kwon_Young-gil	1	0	Mark_Rosenbaum	1	1
+Larry_Brown	6	0	Prince_Philippe	1	1
+Larry_Johnson	2	0	Lee_Ann_Womack	1	0
+Larry_Wilmore	1	1	Laura_Gobai	1	0
+Larry_Wilmore	1	1	Nebojsa_Pavkovic	1	0
+Lars_Von_Trier	1	1	Leon_Silver	1	1
+Laura_Schlessinger	1	0	Zahir_Shah	1	1
+Laurence_Tribe	1	0	Mark_Lazarus	1	1
+Laurie_Pirtle	1	1	Porter_Goss	1	0
+Lawrence_Foley	1	0	Omar_Vizquel	1	1
+Lawrence_Vito	1	0	Martha_Sahagun_de_Fox	1	0
+Lawrence_Vito	1	1	Sanjay_Chawla	1	1
+Leah_Remini	1	0	Max_von_Sydow	1	0
+Lee_Ann_Womack	1	0	Roberto_Carlos	2	0
+Lee_Nam-shin	1	0	Nick_Nolte	1	1
+Lee_Soo-hyuck	1	0	Scott_Sullivan	1	1
+Lee_Yeo-jin	1	1	Mariangel_Ruiz_Torrealba	1	1
+Leland_Chapman	1	0	Valorie_Brabazon	1	0
+Lemuel_Montulo	1	0	Tom_Vilsack	1	1
+Lene_Espersen	1	1	San_Lan	1	0
+Leslie_Caldwell	2	1	Takuma_Sato	1	1
+Leuris_Pupo	1	1	Stephen_Funk	1	0
+Li_Changchun	1	0	Noel_Forgeard	1	1
+Li_Ka-shing	1	0	Manuel_Poggiali	2	0
+Li_Ka-shing	1	0	Prince_Willem-Alexander	3	1
+Li_Zhaoxing	7	0	Yang_Jianli	1	1
+Lin_Yung_Hsi	1	1	Patricia_Johnson	1	1
+Linda_Baboolal	1	1	Michael_J_Fox	1	0
+Linda_Baboolal	1	0	Raquel_Welch	2	0
+Lionel_Hampton	1	1	Paola_Espinoza	1	1
+Lionel_Richie	2	1	Ravan_AG_Farhadi	1	0
+Lisa_Gottsegen	2	0	Steve_Phillips	1	0
+Lisa_Stansfield	1	1	Urmila_Matondkar	1	1
+Lisa_Stone	1	1	Todd_Reid	1	0
+Lope_Mendoza	1	1	Roy_Halladay	1	1
+Lorne_Michaels	1	1	Tex_Ritter	1	1
+Lou_Piniella	3	0	Robert_DeFraites	1	1
+Lucia_Kenny_Anthony	1	1	Paul_Wolfowitz	4	0
+Lucio_Cecchinello	1	0	Strom_Thurmond	1	1
+Luis_Guzman	1	0	Thomas_Ulrich	1	1
+Luke_Ridnour	1	0	Najib_al-Salhi	1	0
+Madeleine_Albright	1	1	Robert_Schuller	1	1
+Mae_Jemison	1	0	Max_Biaggi	1	1
+Mahmoud_Al_Zhar	1	0	Takaloo	1	1
+Manuel_Poggiali	2	0	Wu_Peng	1	0
+Manuel_Rosendo	1	0	Takaloo	1	1
+Marc-Andre_Fleury	1	0	Rob_Lowe	3	0
+Marcus_Garrettson	1	0	Rosalie_Perkov	1	1
+Maria_Luisa_Mendonca	1	1	Terry_Hoeppner	1	1
+Maria_Luisa_Mendonca	1	1	Tim_Lobinger	1	0
+Maria_Wetterstrand	1	1	Tori_Amos	1	1
+Mariah_Carey	1	1	Richard_Gephardt	8	1
+Maribel_Dominguez	1	1	Vagit_Alekperov	1	0
+Mario_Vasquez_Rana	1	1	Robert_Bonner	1	0
+Marion_Fahnestock	1	1	Steve_Fehr	1	0
+Marisol_Breton	1	1	Will_Young	1	1
+Mark_Hurlbert	4	0	Todd_MacCulloch	1	0
+Mark_Lazarus	1	1	Olene_Walker	1	1
+Mark_Rosenbaum	1	0	Pupi_Avati	2	0
+Markus_Beyer	1	1	Ulrich_Kueperkoch	1	1
+Marlene_Weingartner	1	0	Steve_Avery	1	0
+Martha_Smith	1	1	Ty_Votaw	1	1
+Marwan_Muasher	1	1	Scott_OGrady	1	0
+Mary_Robinson	1	0	Vanessa_Williams	1	1
+Masja_Juel	1	0	Normand_Legault	1	1
+Masja_Juel	1	1	Razali_Ismail	1	0
+Mathias_Reichhold	1	1	Paul_ONeill	9	0
+Matt_Anderson	1	1	Pauley_Perrette	1	0
+Matt_Anderson	1	0	Tyler_Grillo	1	0
+Matt_LeBlanc	1	1	Stanley_Tong	1	1
+Maureen_Fanning	1	1	Paul_Tagliabue	1	1
+Maureen_Kanka	1	0	Normand_Legault	1	0
+Mehmet_Okur	1	1	Ty_Votaw	1	0
+Mel_Karmazin	1	0	Vaclav_Klaus	2	1
+Melina_Kanakaredes	1	0	Tom_Brennan	1	1
+Melissa_Stark	1	0	William_Ragland	1	1
+Michael_Caine	1	0	Tom_Watson	1	1
+Michael_Chertoff	1	1	Ryan_Newman	1	1
+Michael_Diekmann	1	0	Qian_Qichen	1	0
+Michael_Hagee	1	1	Rick_Lu	1	0
+Michael_Kors	1	0	Nate_Hybl	1	1
+Michael_Schumacher	3	0	Stephanie_Moore	1	1
+Michelle_Branch	2	0	Ricardo_Lopez_Murphy	2	1
+Mick_Jagger	4	0	Roberto_Canessa	1	1
+Mickey_Gilley	1	1	Sepp_Blatter	3	1
+Mickey_Loomis	1	0	Najib_al-Salhi	1	1
+Mickey_Loomis	1	0	Philippe_Gagnon	1	1
+Mickey_Rooney	1	0	Mickey_Sherman	1	1
+Mike_Bair	1	0	Timothy_Wirth	1	1
+Mike_Bair	1	0	Tyrone_Medley	1	1
+Mike_Fisher	1	0	Oscar_Bolanos	1	0
+Mike_Gable	1	1	Sharon_Osbourne	1	0
+Mike_OConnell	1	0	Natalie_Stewart	1	0
+Milan_Kucan	1	0	Yuvraj_Singh	1	0
+Milo_Maestrecampo	3	1	Wes_Craven	1	1
+Minnie_Driver	1	0	Penny_Dupuie	1	1
+Minnie_Driver	2	1	Yukio_Hatoyama	1	1
+Minnie_Mendoza	1	0	Sherri_Coale	1	1
+Mireille_Jospin-Dandieu	1	1	Ricardo_Lopez_Murphy	2	0
+Misty_Dawn_Clymer	1	1	Terry_Stotts	2	1
+Mitoji_Yabunaka	1	0	Sanjay_Gupta	1	1
+Mitsou_Gelinas	1	1	Yana_Klochkova	1	1
+Mohammed_Ashraf_Hafiz	1	1	Ronald_Young_Jr	1	0
+Myung_Yang	1	1	Rene_Antonio_Leon_Rodriguez	1	0
+Nabil_Shaath	2	0	Quincy_Jones	1	0
+Nadia_Forte	1	1	Toni_Jennings	1	0
+Nan_Wang	4	1	Penny_Dupuie	1	0
+Nancy_Kerrigan	1	0	Thomas_Wyman	2	0
+Naomi_Bronstein	1	1	Rainer_Geulen	1	1
+Naomi_Watts	13	1	Yuri_Fedotov	2	1
+Natalia_Dmitrieva	1	0	Nova_Esther_Guthrie	1	1
+Natalia_Dmitrieva	1	1	Yana_Klochkova	1	0
+Natalia_Dmitrieva	1	1	Yoshiyuki_Kamei	1	1
+Natalia_Verbeke	1	0	Steny_Hoyer	1	0
+Natalia_Vodonova	1	1	Russell_Simmons	4	1
+Natalie_Cole	3	0	Steve_McManaman	1	0
+Natasa_Micic	1	0	Oxana_Fedorova	3	1
+Natasa_Micic	1	0	Simona_Hradil	1	0
+Nathirah_Hussein	1	1	Pedro_Mahecha	1	0
+Nathirah_Hussein	1	0	Tomas_Enge	1	1
+Neri_Marcore	1	1	Wolfgang_Schuessel	2	0
+Nick_Nolte	3	1	Steven_Briggs	1	0
+Nicolas_Kiefer	1	0	Will_Young	1	1
+Nicolas_Lapentti	1	1	Paula_Dobriansky	1	0
+Nicolas_Latorre	1	1	Paulo_Cesar_Pinheiro	2	0
+Nora_Ephron	1	1	Roel_Campos	1	0
+Orlando_Bloom	1	0	Toutai_Kefu	1	1
+Paddy_Torsney	1	0	Scott_Rudin	2	0
+Pamela_Anderson	2	1	Stan_Kroenke	1	0
+Paola_Espinoza	1	1	Ranil_Wickremasinghe	2	0
+Paradorn_Srichaphan	7	0	Wolfgang_Schuessel	2	0
+Parris_Glendening	1	1	Stefaan_Declerk	1	0
+Pat_Cox	1	1	Prince_Felipe	1	1
+Patrick_Clawsen	1	0	Valerie_Thwaites	1	0
+Patrick_Ewing	2	0	Tali_Imani	1	0
+Patrick_Roy	2	0	Ronald_Reagan	1	0
+Paul_Murphy	1	0	Samantha_Daniels	1	1
+Paul_ONeill	8	0	Steven_Feldman	1	1
+Paul_Wilson	1	0	Pupi_Avati	1	0
+Paula_Dobriansky	1	1	Selma_Phoenix	1	1
+Paula_Radcliffe	1	0	Theresa_May	2	1
+Paulo_Cesar_Pinheiro	1	1	Zhu_Rongji	5	1
+Pedro_Velasquez	1	0	Queen_Rania	4	1
+Pedro_Velasquez	1	0	Will_Ferrell	1	0
+Peggy_McGuinness	1	0	Pete_Beaudrault	1	0
+Penny_Lancaster	1	0	Sven_Ottke	1	1
+Pernilla_Bjorn	1	0	Sanjay_Gupta	1	0
+Pete_Beaudrault	1	0	Roy_Halladay	1	0
+Pete_Gillen	1	1	Pringe_Ernst_August	1	0
+Peter_Bacanovic	1	0	Zhang_Wenkang	1	0
+Peter_Hillary	2	1	Terence_Newman	1	0
+Pham_Sy_Chien	1	1	Sharon_Stone	5	1
+Pier_Ferdinando_Casini	1	0	Steve_Phillips	1	0
+Pier_Ferdinando_Casini	1	1	Tom_Curley	1	1
+Piotr_Anderszewski	1	1	Yoshiyuki_Kamei	1	0
+Platon_Lebedev	1	0	Ray_Young	1	0
+Prince_Naruhito	2	0	Princess_Elisabeth	2	1
+Princess_Anne	1	1	Roberto_Laratro	1	1
+Princess_Anne	2	1	Tab_Turner	1	0
+Pringe_Ernst_August	1	0	Rose_Marie	1	0
+Pringe_Ernst_August	1	1	Suzanne_Haik_Terrell	1	0
+Qian_Qichen	1	1	Sok_An	1	0
+Quincy_Jones	1	0	Stephen_Joseph	1	0
+Raag_Singhal	1	0	Ray_Halbritter	1	1
+Rashid_Qureshi	1	1	Ray_Young	1	0
+Ray_Halbritter	1	0	Xanana_Gusmao	3	1
+Ray_Halbritter	1	1	Zara_Akhmadova	1	1
+Ray_Morrough	1	1	Ron_Gonzales	1	1
+Ray_Nagin	2	1	Thomas_Enqvist	1	0
+Razali_Ismail	1	1	Rob_Marshall	4	0
+Rene_Antonio_Leon_Rodriguez	1	1	Ted_Turner	1	0
+Retief_Goosen	1	0	Tuncay_Sanli	1	0
+Richard_Armitage	6	1	Sila_Calderon	1	1
+Richard_Branson	2	1	Taufik_Hidayat	1	0
+Richard_Krajicek	3	1	Zalmay_Khalilzad	1	0
+Robert_Altman	1	1	Stella_Keitel	1	1
+Robert_Lange	1	1	Tina_Andrews	1	1
+Roberto_Cercelletta	1	0	Scott_Hamilton	1	0
+Ron_Zook	1	1	Trista_Rehn	1	0
+Ross_Verba	1	0	Tony_Curtis	2	1
+Rudi_Voeller	1	1	Tim_Lobinger	1	1
+Ruth_Harlow	1	0	Tony_Fernandes	1	1
+Ryan_Leaf	1	1	Wilson_Alvarez	1	1
+SJ_Twu	1	1	Sachin_Tendulkar	1	1
+Sada_Jacobson	1	0	William_Webster	1	0
+Sam_Torrance	3	0	Tom_Christerson	1	0
+Sammy_Sosa	1	1	Steve_Park	1	1
+Sandy_Smith	1	0	Susan_Walvius	1	0
+Sara_Silverman	1	1	Stephen_Friedman	1	0
+Sean_Combs	1	0	Sherry_Fisher	1	0
+Shawn_Kemp	1	0	Steven_Seagal	1	1
+Shi_Guangsheng	1	1	TA_McLendon	1	0
+Shia_LaBeouf	1	0	Tatyana_Tomashova	1	0
+Shoshana_Johnson	1	1	Suzanne_Mubarak	1	0
+Simona_Hradil	1	1	Ted_Washington	1	0
+Spike_Helmick	1	0	Stephen_Webster	1	0
+Spike_Helmick	1	1	Wayne_Brady	1	0
+Stanley_McChrystal	1	1	Tatjana_Gsell	1	1
+Stanley_McChrystal	2	0	Surya_Bahadur_Thapa	1	1
+Stanley_Nelson	1	1	Stella_Tennant	1	0
+Stephen_Frears	1	1	Taufik_Kiemas	1	1
+Stephen_Joseph	1	0	Steven_Spielberg	7	0
+Steve_Redgrave	1	0	Tom_Crean	2	0
+Syed_Ibrahim	1	0	Tim_Chapman	1	0
+Tammy_Helm	1	1	Taufik_Kiemas	1	0
+Terje_Roed-Larsen	2	1	Thomas_Rupprath	3	0
+Thomas_Rupprath	3	0	Wendy_Kennedy	1	0
+Tim_Howard	1	0	Tom_Reilly	1	1
+Tom_Craddick	3	1	Val_Ackerman	1	0
+Tom_Vilsack	1	0	Wayne_Ferreira	5	1
+Trisha_Meili	1	1	Vladimiro_Montesinos	3	0
+Ty_Votaw	1	1	Wayne_Allard	1	0
+Vytas_Danelius	1	0	Zaini_Abdullah	1	0
+Wendy_Kennedy	1	0	Zara_Akhmadova	1	0
